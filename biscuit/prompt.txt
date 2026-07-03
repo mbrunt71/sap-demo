@@ -1,0 +1,134 @@
+Hieronder een lijst van processen en informatie topics waar we over willen kunnen rapporteren. 
+1. Maak een uitgebreide lijst van SAP tabellen (inclusief omschrijvingen) die nodig zijn voor deze processen / topics.
+2. Schrijf dit weg in  bestand proces-topic-saptable.csv in folder biscuit met 1 regel per proces / topic / sap tabelnaam
+3. Bouw een business datamodel op obv de tabellen in dit bestand. Gebruik functionele SAP benamingen. Iedere SAP tabel kan maar in 1 business benaming terugkomen. Voeg de SAP tabellen met dezelfde key samen in 1 business tabel (kies taal Engels uit de Text tables)
+3. Controleer dat er minder SAP tabellen zijn dan business tabellen.
+4. Schrijf dit weg in  bestand proces-topic-saptable-business.csv in folder biscuit met 1 regel per proces / topic / sap tabelnaam / business tabelnaam
+4. Genereer facts en dimensies obv de business tabellen. Fact tables bevatten meetwaarden zoals omzet. Dimensies bevatten beschrijvende waarden. Voeg dimensietabellen samen die hierarchisch met elkaar gekoppeld zijn. Fact tabellen beginnen met Fct en dimensies met Dim
+5. Genereer een functionele beschrijving voor iedere fact/dim tabel en vermeld bij de facts welke meetwaarden er zijn.
+6. Schrijf dit weg in  bestand proces-topic-saptable-business-factdim.csv in folder biscuit met 1 regel per proces / topic / sap tabelnaam / business tabelnaam / fact/dim tabelnaam / functionele beschrijving / lijst van meetwaarden
+
+
+Proces	Topic
+Demand and Supply Planning	Historical Demand Analysis
+Demand and Supply Planning	Seasonal Trends
+Demand and Supply Planning	Demand Variability
+Demand and Supply Planning	Customer Segmentation Demand
+Demand and Supply Planning	Forecast Accuracy
+Demand and Supply Planning	Demand by Region
+Demand and Supply Planning	External Source Integration
+Demand and Supply Planning	Lost Sales Tracking
+Demand and Supply Planning	Lead Time Analysis
+Demand and Supply Planning	Scenario forecasting
+Demand and Supply Planning	Inventory Accuracy
+Demand and Supply Planning	Overstock Inventory
+Demand and Supply Planning	Backorder Rates
+Demand and Supply Planning	Storage Cost per Item
+Demand and Supply Planning	Obsolete & Block Stock
+Demand and Supply Planning	Stock Levels and Turnover Rate
+Demand and Supply Planning	Aging Inventory
+Demand and Supply Planning	Days Sales of Inventory (DSI)
+Demand and Supply Planning	Stockout Frequency
+Demand and Supply Planning	Reorder Point Alerts
+Demand and Supply Planning	New Product Demand & Planning
+Demand and Supply Planning	New product development tracking
+Procurement and Supplier Management	Supplier Lead Times
+Procurement and Supplier Management	Order Fulfillment Rate
+Procurement and Supplier Management	Cost per Supplier
+Procurement and Supplier Management	Quality Compliance
+Procurement and Supplier Management	Delivery Timeliness
+Procurement and Supplier Management	Supplier Performance & Scorecard
+Procurement and Supplier Management	Volume Discounts
+Procurement and Supplier Management	Contract Compliance
+Procurement and Supplier Management	Procurement Cost per Item
+Procurement and Supplier Management	Sustainable Sourcing Metrics
+Production and Manufacturing	Machine Planned and Unplanned time
+Production and Manufacturing	Machine Utilization
+Production and Manufacturing	Downtime Analysis
+Production and Manufacturing	Production Cycle Time
+Production and Manufacturing	First pass production
+Production and Manufacturing	Waste Levels
+Production and Manufacturing	Energy Consumption
+Production and Manufacturing	Production Costs per Unit
+Production and Manufacturing	Material Utilization
+Production and Manufacturing	Workforce Efficiency
+Production and Manufacturing	MassBalance
+Logistics and Transportation	Freight Cost per Unit
+Logistics and Transportation	Carrier Performance
+Logistics and Transportation	Transportation Modes Analysis
+Logistics and Transportation	Fuel Consumption
+Logistics and Transportation	Transport Load Optimization
+Logistics and Transportation	Reverse Logistics Costs
+Logistics and Transportation	Customs and Tariffs
+Logistics and Transportation	Delivery Lead Time Variability
+Logistics and Transportation	Carbon Emissions per Shipment
+Logistics and Transportation	Dropsize per shipment
+Logistics and Transportation	Client frequency
+Warehouse Management	Picking Accuracy
+Warehouse Management	Order Cycle Time
+Warehouse Management	Labor Utilization
+Warehouse Management	Storage Space Utilization
+Warehouse Management	Average Warehouse Stay
+Warehouse Management	Order Fulfillment Rate
+Warehouse Management	Equipment Downtime
+Warehouse Management	Inbound/Outbound Freight Coordination
+Warehouse Management	Inventory Damage Rates
+Warehouse Management	Temperature Control Monitoring
+Customer Service and Returns	OTIF and Customer Delivery Performance
+Customer Service and Returns	Planned production for sales orders
+Customer Service and Returns	Return Rate Analysis
+Customer Service and Returns	Customer Complaint Rate
+Customer Service and Returns	First Contact Resolution
+Customer Service and Returns	Warranty Claim Rates
+Customer Service and Returns	Response Time
+Customer Service and Returns	Refund and Reimbursement Costs
+Customer Service and Returns	Customer Satisfaction Score
+Customer Service and Returns	Return Processing Time
+Customer Service and Returns	Customer Retention Rate
+Customer Service and Returns	Average lead time
+Sales	Sales Performance by Product
+Sales	Customer Acquisition Cost (CAC)
+Sales	Sales Pipeline Health
+Sales	Lead Conversion Rates
+Sales	Revenue by Sales Channel
+Sales	Customer Retention and Churn Rate
+Sales	Sales Cycle Length
+Sales	Discount and Promotion Effectiveness
+Sales	Top Sales Representatives
+Sales	Market Segmentation Performance
+Controlling	Budget vs. Actual Performance
+Controlling	Cost Variance Analysis
+Controlling	Cash Flow Analysis
+Controlling	Profitability by Segment
+Controlling	Overhead Cost Monitoring
+Controlling	Cost Center Performance
+Controlling	Capital Expenditure (CapEx) Tracking
+Controlling	Working Capital Management
+Controlling	Financial KPI Dashboard
+Controlling	Replacement Product Costs
+Controlling	Correction analysis
+Human Resource	Absenteeism Reporting
+Human Resource	Employee Turnover Rate
+Human Resource	Recruitment Funnel Metrics
+Human Resource	Training and Development ROI
+Human Resource	Employee Engagement Levels
+Human Resource	Compensation Benchmarking
+Human Resource	Diversity and Inclusion Metrics
+Human Resource	Performance Management Trends
+Human Resource	Overtime and Workforce Utilization
+Human Resource	Benefits Usage and Optimization
+IT System and Data Integrity	Data Quality Metrics
+IT System and Data Integrity	Duplicate Records Check
+IT System and Data Integrity	Master Data Governance Compliance
+IT System and Data Integrity	Data Ownership and Stewardship
+IT System and Data Integrity	Data Update Frequency
+IT System and Data Integrity	Supplier and Vendor Master Data
+IT System and Data Integrity	Customer Master Data
+IT System and Data Integrity	Product Master Data
+IT System and Data Integrity	Hierarchy and data object relations
+IT System and Data Integrity	Integration with other IT Systems
+IT System and Data Integrity	Data Harmonization multiple SAP sources
+IT System and Data Integrity	Data Harmonization multiple SAP sources
+IT System and Data Integrity	Data Harmonization multiple SAP sources
+IT System and Data Integrity	Reporting development
+

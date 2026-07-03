@@ -1,0 +1,1660 @@
+Process,Topic,SAP Table
+Demand and Supply Planning,Historical Demand Analysis,MDKP
+Demand and Supply Planning,Historical Demand Analysis,MDTB
+Demand and Supply Planning,Historical Demand Analysis,PBIM
+Demand and Supply Planning,Historical Demand Analysis,PBED
+Demand and Supply Planning,Historical Demand Analysis,PLAF
+Demand and Supply Planning,Historical Demand Analysis,EBAN
+Demand and Supply Planning,Historical Demand Analysis,RESB
+Demand and Supply Planning,Historical Demand Analysis,MARA
+Demand and Supply Planning,Historical Demand Analysis,MARC
+Demand and Supply Planning,Historical Demand Analysis,MARD
+Demand and Supply Planning,Seasonal Trends,MDKP
+Demand and Supply Planning,Seasonal Trends,MDTB
+Demand and Supply Planning,Seasonal Trends,PBIM
+Demand and Supply Planning,Seasonal Trends,PBED
+Demand and Supply Planning,Seasonal Trends,PLAF
+Demand and Supply Planning,Seasonal Trends,EBAN
+Demand and Supply Planning,Seasonal Trends,RESB
+Demand and Supply Planning,Seasonal Trends,MARA
+Demand and Supply Planning,Seasonal Trends,MARC
+Demand and Supply Planning,Seasonal Trends,MARD
+Demand and Supply Planning,Demand Variability,MDKP
+Demand and Supply Planning,Demand Variability,MDTB
+Demand and Supply Planning,Demand Variability,PBIM
+Demand and Supply Planning,Demand Variability,PBED
+Demand and Supply Planning,Demand Variability,PLAF
+Demand and Supply Planning,Demand Variability,EBAN
+Demand and Supply Planning,Demand Variability,RESB
+Demand and Supply Planning,Demand Variability,MARA
+Demand and Supply Planning,Demand Variability,MARC
+Demand and Supply Planning,Demand Variability,MARD
+Demand and Supply Planning,Customer Segmentation Demand,MDKP
+Demand and Supply Planning,Customer Segmentation Demand,MDTB
+Demand and Supply Planning,Customer Segmentation Demand,PBIM
+Demand and Supply Planning,Customer Segmentation Demand,PBED
+Demand and Supply Planning,Customer Segmentation Demand,PLAF
+Demand and Supply Planning,Customer Segmentation Demand,EBAN
+Demand and Supply Planning,Customer Segmentation Demand,RESB
+Demand and Supply Planning,Customer Segmentation Demand,MARA
+Demand and Supply Planning,Customer Segmentation Demand,MARC
+Demand and Supply Planning,Customer Segmentation Demand,MARD
+Demand and Supply Planning,Forecast Accuracy,MDKP
+Demand and Supply Planning,Forecast Accuracy,MDTB
+Demand and Supply Planning,Forecast Accuracy,PBIM
+Demand and Supply Planning,Forecast Accuracy,PBED
+Demand and Supply Planning,Forecast Accuracy,PLAF
+Demand and Supply Planning,Forecast Accuracy,EBAN
+Demand and Supply Planning,Forecast Accuracy,RESB
+Demand and Supply Planning,Forecast Accuracy,MARA
+Demand and Supply Planning,Forecast Accuracy,MARC
+Demand and Supply Planning,Forecast Accuracy,MARD
+Demand and Supply Planning,Demand by Region,MDKP
+Demand and Supply Planning,Demand by Region,MDTB
+Demand and Supply Planning,Demand by Region,PBIM
+Demand and Supply Planning,Demand by Region,PBED
+Demand and Supply Planning,Demand by Region,PLAF
+Demand and Supply Planning,Demand by Region,EBAN
+Demand and Supply Planning,Demand by Region,RESB
+Demand and Supply Planning,Demand by Region,MARA
+Demand and Supply Planning,Demand by Region,MARC
+Demand and Supply Planning,Demand by Region,MARD
+Demand and Supply Planning,External Source Integration,MDKP
+Demand and Supply Planning,External Source Integration,MDTB
+Demand and Supply Planning,External Source Integration,PBIM
+Demand and Supply Planning,External Source Integration,PBED
+Demand and Supply Planning,External Source Integration,PLAF
+Demand and Supply Planning,External Source Integration,EBAN
+Demand and Supply Planning,External Source Integration,RESB
+Demand and Supply Planning,External Source Integration,MARA
+Demand and Supply Planning,External Source Integration,MARC
+Demand and Supply Planning,External Source Integration,MARD
+Demand and Supply Planning,Lost Sales Tracking,MDKP
+Demand and Supply Planning,Lost Sales Tracking,MDTB
+Demand and Supply Planning,Lost Sales Tracking,PBIM
+Demand and Supply Planning,Lost Sales Tracking,PBED
+Demand and Supply Planning,Lost Sales Tracking,PLAF
+Demand and Supply Planning,Lost Sales Tracking,EBAN
+Demand and Supply Planning,Lost Sales Tracking,RESB
+Demand and Supply Planning,Lost Sales Tracking,MARA
+Demand and Supply Planning,Lost Sales Tracking,MARC
+Demand and Supply Planning,Lost Sales Tracking,MARD
+Demand and Supply Planning,Lead Time Analysis,MDKP
+Demand and Supply Planning,Lead Time Analysis,MDTB
+Demand and Supply Planning,Lead Time Analysis,PBIM
+Demand and Supply Planning,Lead Time Analysis,PBED
+Demand and Supply Planning,Lead Time Analysis,PLAF
+Demand and Supply Planning,Lead Time Analysis,EBAN
+Demand and Supply Planning,Lead Time Analysis,RESB
+Demand and Supply Planning,Lead Time Analysis,MARA
+Demand and Supply Planning,Lead Time Analysis,MARC
+Demand and Supply Planning,Lead Time Analysis,MARD
+Demand and Supply Planning,Scenario forecasting,MDKP
+Demand and Supply Planning,Scenario forecasting,MDTB
+Demand and Supply Planning,Scenario forecasting,PBIM
+Demand and Supply Planning,Scenario forecasting,PBED
+Demand and Supply Planning,Scenario forecasting,PLAF
+Demand and Supply Planning,Scenario forecasting,EBAN
+Demand and Supply Planning,Scenario forecasting,RESB
+Demand and Supply Planning,Scenario forecasting,MARA
+Demand and Supply Planning,Scenario forecasting,MARC
+Demand and Supply Planning,Scenario forecasting,MARD
+Demand and Supply Planning,Inventory Accuracy,MDKP
+Demand and Supply Planning,Inventory Accuracy,MDTB
+Demand and Supply Planning,Inventory Accuracy,PBIM
+Demand and Supply Planning,Inventory Accuracy,PBED
+Demand and Supply Planning,Inventory Accuracy,PLAF
+Demand and Supply Planning,Inventory Accuracy,EBAN
+Demand and Supply Planning,Inventory Accuracy,RESB
+Demand and Supply Planning,Inventory Accuracy,MARA
+Demand and Supply Planning,Inventory Accuracy,MARC
+Demand and Supply Planning,Inventory Accuracy,MARD
+Demand and Supply Planning,Overstock Inventory,MDKP
+Demand and Supply Planning,Overstock Inventory,MDTB
+Demand and Supply Planning,Overstock Inventory,PBIM
+Demand and Supply Planning,Overstock Inventory,PBED
+Demand and Supply Planning,Overstock Inventory,PLAF
+Demand and Supply Planning,Overstock Inventory,EBAN
+Demand and Supply Planning,Overstock Inventory,RESB
+Demand and Supply Planning,Overstock Inventory,MARA
+Demand and Supply Planning,Overstock Inventory,MARC
+Demand and Supply Planning,Overstock Inventory,MARD
+Demand and Supply Planning,Backorder Rates,MDKP
+Demand and Supply Planning,Backorder Rates,MDTB
+Demand and Supply Planning,Backorder Rates,PBIM
+Demand and Supply Planning,Backorder Rates,PBED
+Demand and Supply Planning,Backorder Rates,PLAF
+Demand and Supply Planning,Backorder Rates,EBAN
+Demand and Supply Planning,Backorder Rates,RESB
+Demand and Supply Planning,Backorder Rates,MARA
+Demand and Supply Planning,Backorder Rates,MARC
+Demand and Supply Planning,Backorder Rates,MARD
+Demand and Supply Planning,Storage Cost per Item,MDKP
+Demand and Supply Planning,Storage Cost per Item,MDTB
+Demand and Supply Planning,Storage Cost per Item,PBIM
+Demand and Supply Planning,Storage Cost per Item,PBED
+Demand and Supply Planning,Storage Cost per Item,PLAF
+Demand and Supply Planning,Storage Cost per Item,EBAN
+Demand and Supply Planning,Storage Cost per Item,RESB
+Demand and Supply Planning,Storage Cost per Item,MARA
+Demand and Supply Planning,Storage Cost per Item,MARC
+Demand and Supply Planning,Storage Cost per Item,MARD
+Demand and Supply Planning,Obsolete & Block Stock,MDKP
+Demand and Supply Planning,Obsolete & Block Stock,MDTB
+Demand and Supply Planning,Obsolete & Block Stock,PBIM
+Demand and Supply Planning,Obsolete & Block Stock,PBED
+Demand and Supply Planning,Obsolete & Block Stock,PLAF
+Demand and Supply Planning,Obsolete & Block Stock,EBAN
+Demand and Supply Planning,Obsolete & Block Stock,RESB
+Demand and Supply Planning,Obsolete & Block Stock,MARA
+Demand and Supply Planning,Obsolete & Block Stock,MARC
+Demand and Supply Planning,Obsolete & Block Stock,MARD
+Demand and Supply Planning,Stock Levels and Turnover Rate,MDKP
+Demand and Supply Planning,Stock Levels and Turnover Rate,MDTB
+Demand and Supply Planning,Stock Levels and Turnover Rate,PBIM
+Demand and Supply Planning,Stock Levels and Turnover Rate,PBED
+Demand and Supply Planning,Stock Levels and Turnover Rate,PLAF
+Demand and Supply Planning,Stock Levels and Turnover Rate,EBAN
+Demand and Supply Planning,Stock Levels and Turnover Rate,RESB
+Demand and Supply Planning,Stock Levels and Turnover Rate,MARA
+Demand and Supply Planning,Stock Levels and Turnover Rate,MARC
+Demand and Supply Planning,Stock Levels and Turnover Rate,MARD
+Demand and Supply Planning,Aging Inventory,MDKP
+Demand and Supply Planning,Aging Inventory,MDTB
+Demand and Supply Planning,Aging Inventory,PBIM
+Demand and Supply Planning,Aging Inventory,PBED
+Demand and Supply Planning,Aging Inventory,PLAF
+Demand and Supply Planning,Aging Inventory,EBAN
+Demand and Supply Planning,Aging Inventory,RESB
+Demand and Supply Planning,Aging Inventory,MARA
+Demand and Supply Planning,Aging Inventory,MARC
+Demand and Supply Planning,Aging Inventory,MARD
+Demand and Supply Planning,Days Sales of Inventory (DSI),MDKP
+Demand and Supply Planning,Days Sales of Inventory (DSI),MDTB
+Demand and Supply Planning,Days Sales of Inventory (DSI),PBIM
+Demand and Supply Planning,Days Sales of Inventory (DSI),PBED
+Demand and Supply Planning,Days Sales of Inventory (DSI),PLAF
+Demand and Supply Planning,Days Sales of Inventory (DSI),EBAN
+Demand and Supply Planning,Days Sales of Inventory (DSI),RESB
+Demand and Supply Planning,Days Sales of Inventory (DSI),MARA
+Demand and Supply Planning,Days Sales of Inventory (DSI),MARC
+Demand and Supply Planning,Days Sales of Inventory (DSI),MARD
+Demand and Supply Planning,Stockout Frequency,MDKP
+Demand and Supply Planning,Stockout Frequency,MDTB
+Demand and Supply Planning,Stockout Frequency,PBIM
+Demand and Supply Planning,Stockout Frequency,PBED
+Demand and Supply Planning,Stockout Frequency,PLAF
+Demand and Supply Planning,Stockout Frequency,EBAN
+Demand and Supply Planning,Stockout Frequency,RESB
+Demand and Supply Planning,Stockout Frequency,MARA
+Demand and Supply Planning,Stockout Frequency,MARC
+Demand and Supply Planning,Stockout Frequency,MARD
+Demand and Supply Planning,Reorder Point Alerts,MDKP
+Demand and Supply Planning,Reorder Point Alerts,MDTB
+Demand and Supply Planning,Reorder Point Alerts,PBIM
+Demand and Supply Planning,Reorder Point Alerts,PBED
+Demand and Supply Planning,Reorder Point Alerts,PLAF
+Demand and Supply Planning,Reorder Point Alerts,EBAN
+Demand and Supply Planning,Reorder Point Alerts,RESB
+Demand and Supply Planning,Reorder Point Alerts,MARA
+Demand and Supply Planning,Reorder Point Alerts,MARC
+Demand and Supply Planning,Reorder Point Alerts,MARD
+Demand and Supply Planning,New Product Demand & Planning,MDKP
+Demand and Supply Planning,New Product Demand & Planning,MDTB
+Demand and Supply Planning,New Product Demand & Planning,PBIM
+Demand and Supply Planning,New Product Demand & Planning,PBED
+Demand and Supply Planning,New Product Demand & Planning,PLAF
+Demand and Supply Planning,New Product Demand & Planning,EBAN
+Demand and Supply Planning,New Product Demand & Planning,RESB
+Demand and Supply Planning,New Product Demand & Planning,MARA
+Demand and Supply Planning,New Product Demand & Planning,MARC
+Demand and Supply Planning,New Product Demand & Planning,MARD
+Demand and Supply Planning,New product development tracking,MDKP
+Demand and Supply Planning,New product development tracking,MDTB
+Demand and Supply Planning,New product development tracking,PBIM
+Demand and Supply Planning,New product development tracking,PBED
+Demand and Supply Planning,New product development tracking,PLAF
+Demand and Supply Planning,New product development tracking,EBAN
+Demand and Supply Planning,New product development tracking,RESB
+Demand and Supply Planning,New product development tracking,MARA
+Demand and Supply Planning,New product development tracking,MARC
+Demand and Supply Planning,New product development tracking,MARD
+Procurement and Supplier Management,Supplier Lead Times,EKKO
+Procurement and Supplier Management,Supplier Lead Times,EKPO
+Procurement and Supplier Management,Supplier Lead Times,EKET
+Procurement and Supplier Management,Supplier Lead Times,EKBE
+Procurement and Supplier Management,Supplier Lead Times,EBAN
+Procurement and Supplier Management,Supplier Lead Times,INFO
+Procurement and Supplier Management,Supplier Lead Times,EINA
+Procurement and Supplier Management,Supplier Lead Times,EINE
+Procurement and Supplier Management,Supplier Lead Times,LFA1
+Procurement and Supplier Management,Supplier Lead Times,LFB1
+Procurement and Supplier Management,Supplier Lead Times,LFM1
+Procurement and Supplier Management,Supplier Lead Times,KONV
+Procurement and Supplier Management,Supplier Lead Times,RBKP
+Procurement and Supplier Management,Supplier Lead Times,RSEG
+Procurement and Supplier Management,Supplier Lead Times,MKPF
+Procurement and Supplier Management,Supplier Lead Times,MSEG
+Procurement and Supplier Management,Supplier Lead Times,BSIK
+Procurement and Supplier Management,Supplier Lead Times,BSAK
+Procurement and Supplier Management,Order Fulfillment Rate,EKKO
+Procurement and Supplier Management,Order Fulfillment Rate,EKPO
+Procurement and Supplier Management,Order Fulfillment Rate,EKET
+Procurement and Supplier Management,Order Fulfillment Rate,EKBE
+Procurement and Supplier Management,Order Fulfillment Rate,EBAN
+Procurement and Supplier Management,Order Fulfillment Rate,INFO
+Procurement and Supplier Management,Order Fulfillment Rate,EINA
+Procurement and Supplier Management,Order Fulfillment Rate,EINE
+Procurement and Supplier Management,Order Fulfillment Rate,LFA1
+Procurement and Supplier Management,Order Fulfillment Rate,LFB1
+Procurement and Supplier Management,Order Fulfillment Rate,LFM1
+Procurement and Supplier Management,Order Fulfillment Rate,KONV
+Procurement and Supplier Management,Order Fulfillment Rate,RBKP
+Procurement and Supplier Management,Order Fulfillment Rate,RSEG
+Procurement and Supplier Management,Order Fulfillment Rate,MKPF
+Procurement and Supplier Management,Order Fulfillment Rate,MSEG
+Procurement and Supplier Management,Order Fulfillment Rate,BSIK
+Procurement and Supplier Management,Order Fulfillment Rate,BSAK
+Procurement and Supplier Management,Cost per Supplier,EKKO
+Procurement and Supplier Management,Cost per Supplier,EKPO
+Procurement and Supplier Management,Cost per Supplier,EKET
+Procurement and Supplier Management,Cost per Supplier,EKBE
+Procurement and Supplier Management,Cost per Supplier,EBAN
+Procurement and Supplier Management,Cost per Supplier,INFO
+Procurement and Supplier Management,Cost per Supplier,EINA
+Procurement and Supplier Management,Cost per Supplier,EINE
+Procurement and Supplier Management,Cost per Supplier,LFA1
+Procurement and Supplier Management,Cost per Supplier,LFB1
+Procurement and Supplier Management,Cost per Supplier,LFM1
+Procurement and Supplier Management,Cost per Supplier,KONV
+Procurement and Supplier Management,Cost per Supplier,RBKP
+Procurement and Supplier Management,Cost per Supplier,RSEG
+Procurement and Supplier Management,Cost per Supplier,MKPF
+Procurement and Supplier Management,Cost per Supplier,MSEG
+Procurement and Supplier Management,Cost per Supplier,BSIK
+Procurement and Supplier Management,Cost per Supplier,BSAK
+Procurement and Supplier Management,Quality Compliance,EKKO
+Procurement and Supplier Management,Quality Compliance,EKPO
+Procurement and Supplier Management,Quality Compliance,EKET
+Procurement and Supplier Management,Quality Compliance,EKBE
+Procurement and Supplier Management,Quality Compliance,EBAN
+Procurement and Supplier Management,Quality Compliance,INFO
+Procurement and Supplier Management,Quality Compliance,EINA
+Procurement and Supplier Management,Quality Compliance,EINE
+Procurement and Supplier Management,Quality Compliance,LFA1
+Procurement and Supplier Management,Quality Compliance,LFB1
+Procurement and Supplier Management,Quality Compliance,LFM1
+Procurement and Supplier Management,Quality Compliance,KONV
+Procurement and Supplier Management,Quality Compliance,RBKP
+Procurement and Supplier Management,Quality Compliance,RSEG
+Procurement and Supplier Management,Quality Compliance,MKPF
+Procurement and Supplier Management,Quality Compliance,MSEG
+Procurement and Supplier Management,Quality Compliance,BSIK
+Procurement and Supplier Management,Quality Compliance,BSAK
+Procurement and Supplier Management,Delivery Timeliness,EKKO
+Procurement and Supplier Management,Delivery Timeliness,EKPO
+Procurement and Supplier Management,Delivery Timeliness,EKET
+Procurement and Supplier Management,Delivery Timeliness,EKBE
+Procurement and Supplier Management,Delivery Timeliness,EBAN
+Procurement and Supplier Management,Delivery Timeliness,INFO
+Procurement and Supplier Management,Delivery Timeliness,EINA
+Procurement and Supplier Management,Delivery Timeliness,EINE
+Procurement and Supplier Management,Delivery Timeliness,LFA1
+Procurement and Supplier Management,Delivery Timeliness,LFB1
+Procurement and Supplier Management,Delivery Timeliness,LFM1
+Procurement and Supplier Management,Delivery Timeliness,KONV
+Procurement and Supplier Management,Delivery Timeliness,RBKP
+Procurement and Supplier Management,Delivery Timeliness,RSEG
+Procurement and Supplier Management,Delivery Timeliness,MKPF
+Procurement and Supplier Management,Delivery Timeliness,MSEG
+Procurement and Supplier Management,Delivery Timeliness,BSIK
+Procurement and Supplier Management,Delivery Timeliness,BSAK
+Procurement and Supplier Management,Supplier Performance & Scorecard,EKKO
+Procurement and Supplier Management,Supplier Performance & Scorecard,EKPO
+Procurement and Supplier Management,Supplier Performance & Scorecard,EKET
+Procurement and Supplier Management,Supplier Performance & Scorecard,EKBE
+Procurement and Supplier Management,Supplier Performance & Scorecard,EBAN
+Procurement and Supplier Management,Supplier Performance & Scorecard,INFO
+Procurement and Supplier Management,Supplier Performance & Scorecard,EINA
+Procurement and Supplier Management,Supplier Performance & Scorecard,EINE
+Procurement and Supplier Management,Supplier Performance & Scorecard,LFA1
+Procurement and Supplier Management,Supplier Performance & Scorecard,LFB1
+Procurement and Supplier Management,Supplier Performance & Scorecard,LFM1
+Procurement and Supplier Management,Supplier Performance & Scorecard,KONV
+Procurement and Supplier Management,Supplier Performance & Scorecard,RBKP
+Procurement and Supplier Management,Supplier Performance & Scorecard,RSEG
+Procurement and Supplier Management,Supplier Performance & Scorecard,MKPF
+Procurement and Supplier Management,Supplier Performance & Scorecard,MSEG
+Procurement and Supplier Management,Supplier Performance & Scorecard,BSIK
+Procurement and Supplier Management,Supplier Performance & Scorecard,BSAK
+Procurement and Supplier Management,Volume Discounts,EKKO
+Procurement and Supplier Management,Volume Discounts,EKPO
+Procurement and Supplier Management,Volume Discounts,EKET
+Procurement and Supplier Management,Volume Discounts,EKBE
+Procurement and Supplier Management,Volume Discounts,EBAN
+Procurement and Supplier Management,Volume Discounts,INFO
+Procurement and Supplier Management,Volume Discounts,EINA
+Procurement and Supplier Management,Volume Discounts,EINE
+Procurement and Supplier Management,Volume Discounts,LFA1
+Procurement and Supplier Management,Volume Discounts,LFB1
+Procurement and Supplier Management,Volume Discounts,LFM1
+Procurement and Supplier Management,Volume Discounts,KONV
+Procurement and Supplier Management,Volume Discounts,RBKP
+Procurement and Supplier Management,Volume Discounts,RSEG
+Procurement and Supplier Management,Volume Discounts,MKPF
+Procurement and Supplier Management,Volume Discounts,MSEG
+Procurement and Supplier Management,Volume Discounts,BSIK
+Procurement and Supplier Management,Volume Discounts,BSAK
+Procurement and Supplier Management,Contract Compliance,EKKO
+Procurement and Supplier Management,Contract Compliance,EKPO
+Procurement and Supplier Management,Contract Compliance,EKET
+Procurement and Supplier Management,Contract Compliance,EKBE
+Procurement and Supplier Management,Contract Compliance,EBAN
+Procurement and Supplier Management,Contract Compliance,INFO
+Procurement and Supplier Management,Contract Compliance,EINA
+Procurement and Supplier Management,Contract Compliance,EINE
+Procurement and Supplier Management,Contract Compliance,LFA1
+Procurement and Supplier Management,Contract Compliance,LFB1
+Procurement and Supplier Management,Contract Compliance,LFM1
+Procurement and Supplier Management,Contract Compliance,KONV
+Procurement and Supplier Management,Contract Compliance,RBKP
+Procurement and Supplier Management,Contract Compliance,RSEG
+Procurement and Supplier Management,Contract Compliance,MKPF
+Procurement and Supplier Management,Contract Compliance,MSEG
+Procurement and Supplier Management,Contract Compliance,BSIK
+Procurement and Supplier Management,Contract Compliance,BSAK
+Procurement and Supplier Management,Procurement Cost per Item,EKKO
+Procurement and Supplier Management,Procurement Cost per Item,EKPO
+Procurement and Supplier Management,Procurement Cost per Item,EKET
+Procurement and Supplier Management,Procurement Cost per Item,EKBE
+Procurement and Supplier Management,Procurement Cost per Item,EBAN
+Procurement and Supplier Management,Procurement Cost per Item,INFO
+Procurement and Supplier Management,Procurement Cost per Item,EINA
+Procurement and Supplier Management,Procurement Cost per Item,EINE
+Procurement and Supplier Management,Procurement Cost per Item,LFA1
+Procurement and Supplier Management,Procurement Cost per Item,LFB1
+Procurement and Supplier Management,Procurement Cost per Item,LFM1
+Procurement and Supplier Management,Procurement Cost per Item,KONV
+Procurement and Supplier Management,Procurement Cost per Item,RBKP
+Procurement and Supplier Management,Procurement Cost per Item,RSEG
+Procurement and Supplier Management,Procurement Cost per Item,MKPF
+Procurement and Supplier Management,Procurement Cost per Item,MSEG
+Procurement and Supplier Management,Procurement Cost per Item,BSIK
+Procurement and Supplier Management,Procurement Cost per Item,BSAK
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EKKO
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EKPO
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EKET
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EKBE
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EBAN
+Procurement and Supplier Management,Sustainable Sourcing Metrics,INFO
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EINA
+Procurement and Supplier Management,Sustainable Sourcing Metrics,EINE
+Procurement and Supplier Management,Sustainable Sourcing Metrics,LFA1
+Procurement and Supplier Management,Sustainable Sourcing Metrics,LFB1
+Procurement and Supplier Management,Sustainable Sourcing Metrics,LFM1
+Procurement and Supplier Management,Sustainable Sourcing Metrics,KONV
+Procurement and Supplier Management,Sustainable Sourcing Metrics,RBKP
+Procurement and Supplier Management,Sustainable Sourcing Metrics,RSEG
+Procurement and Supplier Management,Sustainable Sourcing Metrics,MKPF
+Procurement and Supplier Management,Sustainable Sourcing Metrics,MSEG
+Procurement and Supplier Management,Sustainable Sourcing Metrics,BSIK
+Procurement and Supplier Management,Sustainable Sourcing Metrics,BSAK
+Production and Manufacturing,Machine Planned and Unplanned time,AUFK
+Production and Manufacturing,Machine Planned and Unplanned time,AFKO
+Production and Manufacturing,Machine Planned and Unplanned time,AFPO
+Production and Manufacturing,Machine Planned and Unplanned time,AFVC
+Production and Manufacturing,Machine Planned and Unplanned time,AFVV
+Production and Manufacturing,Machine Planned and Unplanned time,RESB
+Production and Manufacturing,Machine Planned and Unplanned time,CRHD
+Production and Manufacturing,Machine Planned and Unplanned time,MAPL
+Production and Manufacturing,Machine Planned and Unplanned time,PLKO
+Production and Manufacturing,Machine Planned and Unplanned time,PLPO
+Production and Manufacturing,Machine Planned and Unplanned time,STKO
+Production and Manufacturing,Machine Planned and Unplanned time,STPO
+Production and Manufacturing,Machine Planned and Unplanned time,MKPF
+Production and Manufacturing,Machine Planned and Unplanned time,MSEG
+Production and Manufacturing,Machine Planned and Unplanned time,MARA
+Production and Manufacturing,Machine Planned and Unplanned time,MARC
+Production and Manufacturing,Machine Planned and Unplanned time,MARD
+Production and Manufacturing,Machine Utilization,AUFK
+Production and Manufacturing,Machine Utilization,AFKO
+Production and Manufacturing,Machine Utilization,AFPO
+Production and Manufacturing,Machine Utilization,AFVC
+Production and Manufacturing,Machine Utilization,AFVV
+Production and Manufacturing,Machine Utilization,RESB
+Production and Manufacturing,Machine Utilization,CRHD
+Production and Manufacturing,Machine Utilization,MAPL
+Production and Manufacturing,Machine Utilization,PLKO
+Production and Manufacturing,Machine Utilization,PLPO
+Production and Manufacturing,Machine Utilization,STKO
+Production and Manufacturing,Machine Utilization,STPO
+Production and Manufacturing,Machine Utilization,MKPF
+Production and Manufacturing,Machine Utilization,MSEG
+Production and Manufacturing,Machine Utilization,MARA
+Production and Manufacturing,Machine Utilization,MARC
+Production and Manufacturing,Machine Utilization,MARD
+Production and Manufacturing,Downtime Analysis,AUFK
+Production and Manufacturing,Downtime Analysis,AFKO
+Production and Manufacturing,Downtime Analysis,AFPO
+Production and Manufacturing,Downtime Analysis,AFVC
+Production and Manufacturing,Downtime Analysis,AFVV
+Production and Manufacturing,Downtime Analysis,RESB
+Production and Manufacturing,Downtime Analysis,CRHD
+Production and Manufacturing,Downtime Analysis,MAPL
+Production and Manufacturing,Downtime Analysis,PLKO
+Production and Manufacturing,Downtime Analysis,PLPO
+Production and Manufacturing,Downtime Analysis,STKO
+Production and Manufacturing,Downtime Analysis,STPO
+Production and Manufacturing,Downtime Analysis,MKPF
+Production and Manufacturing,Downtime Analysis,MSEG
+Production and Manufacturing,Downtime Analysis,MARA
+Production and Manufacturing,Downtime Analysis,MARC
+Production and Manufacturing,Downtime Analysis,MARD
+Production and Manufacturing,Production Cycle Time,AUFK
+Production and Manufacturing,Production Cycle Time,AFKO
+Production and Manufacturing,Production Cycle Time,AFPO
+Production and Manufacturing,Production Cycle Time,AFVC
+Production and Manufacturing,Production Cycle Time,AFVV
+Production and Manufacturing,Production Cycle Time,RESB
+Production and Manufacturing,Production Cycle Time,CRHD
+Production and Manufacturing,Production Cycle Time,MAPL
+Production and Manufacturing,Production Cycle Time,PLKO
+Production and Manufacturing,Production Cycle Time,PLPO
+Production and Manufacturing,Production Cycle Time,STKO
+Production and Manufacturing,Production Cycle Time,STPO
+Production and Manufacturing,Production Cycle Time,MKPF
+Production and Manufacturing,Production Cycle Time,MSEG
+Production and Manufacturing,Production Cycle Time,MARA
+Production and Manufacturing,Production Cycle Time,MARC
+Production and Manufacturing,Production Cycle Time,MARD
+Production and Manufacturing,First pass production,AUFK
+Production and Manufacturing,First pass production,AFKO
+Production and Manufacturing,First pass production,AFPO
+Production and Manufacturing,First pass production,AFVC
+Production and Manufacturing,First pass production,AFVV
+Production and Manufacturing,First pass production,RESB
+Production and Manufacturing,First pass production,CRHD
+Production and Manufacturing,First pass production,MAPL
+Production and Manufacturing,First pass production,PLKO
+Production and Manufacturing,First pass production,PLPO
+Production and Manufacturing,First pass production,STKO
+Production and Manufacturing,First pass production,STPO
+Production and Manufacturing,First pass production,MKPF
+Production and Manufacturing,First pass production,MSEG
+Production and Manufacturing,First pass production,MARA
+Production and Manufacturing,First pass production,MARC
+Production and Manufacturing,First pass production,MARD
+Production and Manufacturing,Waste Levels,AUFK
+Production and Manufacturing,Waste Levels,AFKO
+Production and Manufacturing,Waste Levels,AFPO
+Production and Manufacturing,Waste Levels,AFVC
+Production and Manufacturing,Waste Levels,AFVV
+Production and Manufacturing,Waste Levels,RESB
+Production and Manufacturing,Waste Levels,CRHD
+Production and Manufacturing,Waste Levels,MAPL
+Production and Manufacturing,Waste Levels,PLKO
+Production and Manufacturing,Waste Levels,PLPO
+Production and Manufacturing,Waste Levels,STKO
+Production and Manufacturing,Waste Levels,STPO
+Production and Manufacturing,Waste Levels,MKPF
+Production and Manufacturing,Waste Levels,MSEG
+Production and Manufacturing,Waste Levels,MARA
+Production and Manufacturing,Waste Levels,MARC
+Production and Manufacturing,Waste Levels,MARD
+Production and Manufacturing,Energy Consumption,AUFK
+Production and Manufacturing,Energy Consumption,AFKO
+Production and Manufacturing,Energy Consumption,AFPO
+Production and Manufacturing,Energy Consumption,AFVC
+Production and Manufacturing,Energy Consumption,AFVV
+Production and Manufacturing,Energy Consumption,RESB
+Production and Manufacturing,Energy Consumption,CRHD
+Production and Manufacturing,Energy Consumption,MAPL
+Production and Manufacturing,Energy Consumption,PLKO
+Production and Manufacturing,Energy Consumption,PLPO
+Production and Manufacturing,Energy Consumption,STKO
+Production and Manufacturing,Energy Consumption,STPO
+Production and Manufacturing,Energy Consumption,MKPF
+Production and Manufacturing,Energy Consumption,MSEG
+Production and Manufacturing,Energy Consumption,MARA
+Production and Manufacturing,Energy Consumption,MARC
+Production and Manufacturing,Energy Consumption,MARD
+Production and Manufacturing,Production Costs per Unit,AUFK
+Production and Manufacturing,Production Costs per Unit,AFKO
+Production and Manufacturing,Production Costs per Unit,AFPO
+Production and Manufacturing,Production Costs per Unit,AFVC
+Production and Manufacturing,Production Costs per Unit,AFVV
+Production and Manufacturing,Production Costs per Unit,RESB
+Production and Manufacturing,Production Costs per Unit,CRHD
+Production and Manufacturing,Production Costs per Unit,MAPL
+Production and Manufacturing,Production Costs per Unit,PLKO
+Production and Manufacturing,Production Costs per Unit,PLPO
+Production and Manufacturing,Production Costs per Unit,STKO
+Production and Manufacturing,Production Costs per Unit,STPO
+Production and Manufacturing,Production Costs per Unit,MKPF
+Production and Manufacturing,Production Costs per Unit,MSEG
+Production and Manufacturing,Production Costs per Unit,MARA
+Production and Manufacturing,Production Costs per Unit,MARC
+Production and Manufacturing,Production Costs per Unit,MARD
+Production and Manufacturing,Material Utilization,AUFK
+Production and Manufacturing,Material Utilization,AFKO
+Production and Manufacturing,Material Utilization,AFPO
+Production and Manufacturing,Material Utilization,AFVC
+Production and Manufacturing,Material Utilization,AFVV
+Production and Manufacturing,Material Utilization,RESB
+Production and Manufacturing,Material Utilization,CRHD
+Production and Manufacturing,Material Utilization,MAPL
+Production and Manufacturing,Material Utilization,PLKO
+Production and Manufacturing,Material Utilization,PLPO
+Production and Manufacturing,Material Utilization,STKO
+Production and Manufacturing,Material Utilization,STPO
+Production and Manufacturing,Material Utilization,MKPF
+Production and Manufacturing,Material Utilization,MSEG
+Production and Manufacturing,Material Utilization,MARA
+Production and Manufacturing,Material Utilization,MARC
+Production and Manufacturing,Material Utilization,MARD
+Production and Manufacturing,Workforce Efficiency,AUFK
+Production and Manufacturing,Workforce Efficiency,AFKO
+Production and Manufacturing,Workforce Efficiency,AFPO
+Production and Manufacturing,Workforce Efficiency,AFVC
+Production and Manufacturing,Workforce Efficiency,AFVV
+Production and Manufacturing,Workforce Efficiency,RESB
+Production and Manufacturing,Workforce Efficiency,CRHD
+Production and Manufacturing,Workforce Efficiency,MAPL
+Production and Manufacturing,Workforce Efficiency,PLKO
+Production and Manufacturing,Workforce Efficiency,PLPO
+Production and Manufacturing,Workforce Efficiency,STKO
+Production and Manufacturing,Workforce Efficiency,STPO
+Production and Manufacturing,Workforce Efficiency,MKPF
+Production and Manufacturing,Workforce Efficiency,MSEG
+Production and Manufacturing,Workforce Efficiency,MARA
+Production and Manufacturing,Workforce Efficiency,MARC
+Production and Manufacturing,Workforce Efficiency,MARD
+Production and Manufacturing,MassBalance,AUFK
+Production and Manufacturing,MassBalance,AFKO
+Production and Manufacturing,MassBalance,AFPO
+Production and Manufacturing,MassBalance,AFVC
+Production and Manufacturing,MassBalance,AFVV
+Production and Manufacturing,MassBalance,RESB
+Production and Manufacturing,MassBalance,CRHD
+Production and Manufacturing,MassBalance,MAPL
+Production and Manufacturing,MassBalance,PLKO
+Production and Manufacturing,MassBalance,PLPO
+Production and Manufacturing,MassBalance,STKO
+Production and Manufacturing,MassBalance,STPO
+Production and Manufacturing,MassBalance,MKPF
+Production and Manufacturing,MassBalance,MSEG
+Production and Manufacturing,MassBalance,MARA
+Production and Manufacturing,MassBalance,MARC
+Production and Manufacturing,MassBalance,MARD
+Logistics and Transportation,Freight Cost per Unit,LIKP
+Logistics and Transportation,Freight Cost per Unit,LIPS
+Logistics and Transportation,Freight Cost per Unit,VTTK
+Logistics and Transportation,Freight Cost per Unit,VTTP
+Logistics and Transportation,Freight Cost per Unit,VTTS
+Logistics and Transportation,Freight Cost per Unit,VFKP
+Logistics and Transportation,Freight Cost per Unit,VFKN
+Logistics and Transportation,Freight Cost per Unit,VTFA
+Logistics and Transportation,Freight Cost per Unit,EKPO
+Logistics and Transportation,Freight Cost per Unit,MKPF
+Logistics and Transportation,Freight Cost per Unit,MSEG
+Logistics and Transportation,Freight Cost per Unit,LFA1
+Logistics and Transportation,Freight Cost per Unit,KNA1
+Logistics and Transportation,Carrier Performance,LIKP
+Logistics and Transportation,Carrier Performance,LIPS
+Logistics and Transportation,Carrier Performance,VTTK
+Logistics and Transportation,Carrier Performance,VTTP
+Logistics and Transportation,Carrier Performance,VTTS
+Logistics and Transportation,Carrier Performance,VFKP
+Logistics and Transportation,Carrier Performance,VFKN
+Logistics and Transportation,Carrier Performance,VTFA
+Logistics and Transportation,Carrier Performance,EKPO
+Logistics and Transportation,Carrier Performance,MKPF
+Logistics and Transportation,Carrier Performance,MSEG
+Logistics and Transportation,Carrier Performance,LFA1
+Logistics and Transportation,Carrier Performance,KNA1
+Logistics and Transportation,Transportation Modes Analysis,LIKP
+Logistics and Transportation,Transportation Modes Analysis,LIPS
+Logistics and Transportation,Transportation Modes Analysis,VTTK
+Logistics and Transportation,Transportation Modes Analysis,VTTP
+Logistics and Transportation,Transportation Modes Analysis,VTTS
+Logistics and Transportation,Transportation Modes Analysis,VFKP
+Logistics and Transportation,Transportation Modes Analysis,VFKN
+Logistics and Transportation,Transportation Modes Analysis,VTFA
+Logistics and Transportation,Transportation Modes Analysis,EKPO
+Logistics and Transportation,Transportation Modes Analysis,MKPF
+Logistics and Transportation,Transportation Modes Analysis,MSEG
+Logistics and Transportation,Transportation Modes Analysis,LFA1
+Logistics and Transportation,Transportation Modes Analysis,KNA1
+Logistics and Transportation,Fuel Consumption,LIKP
+Logistics and Transportation,Fuel Consumption,LIPS
+Logistics and Transportation,Fuel Consumption,VTTK
+Logistics and Transportation,Fuel Consumption,VTTP
+Logistics and Transportation,Fuel Consumption,VTTS
+Logistics and Transportation,Fuel Consumption,VFKP
+Logistics and Transportation,Fuel Consumption,VFKN
+Logistics and Transportation,Fuel Consumption,VTFA
+Logistics and Transportation,Fuel Consumption,EKPO
+Logistics and Transportation,Fuel Consumption,MKPF
+Logistics and Transportation,Fuel Consumption,MSEG
+Logistics and Transportation,Fuel Consumption,LFA1
+Logistics and Transportation,Fuel Consumption,KNA1
+Logistics and Transportation,Transport Load Optimization,LIKP
+Logistics and Transportation,Transport Load Optimization,LIPS
+Logistics and Transportation,Transport Load Optimization,VTTK
+Logistics and Transportation,Transport Load Optimization,VTTP
+Logistics and Transportation,Transport Load Optimization,VTTS
+Logistics and Transportation,Transport Load Optimization,VFKP
+Logistics and Transportation,Transport Load Optimization,VFKN
+Logistics and Transportation,Transport Load Optimization,VTFA
+Logistics and Transportation,Transport Load Optimization,EKPO
+Logistics and Transportation,Transport Load Optimization,MKPF
+Logistics and Transportation,Transport Load Optimization,MSEG
+Logistics and Transportation,Transport Load Optimization,LFA1
+Logistics and Transportation,Transport Load Optimization,KNA1
+Logistics and Transportation,Reverse Logistics Costs,LIKP
+Logistics and Transportation,Reverse Logistics Costs,LIPS
+Logistics and Transportation,Reverse Logistics Costs,VTTK
+Logistics and Transportation,Reverse Logistics Costs,VTTP
+Logistics and Transportation,Reverse Logistics Costs,VTTS
+Logistics and Transportation,Reverse Logistics Costs,VFKP
+Logistics and Transportation,Reverse Logistics Costs,VFKN
+Logistics and Transportation,Reverse Logistics Costs,VTFA
+Logistics and Transportation,Reverse Logistics Costs,EKPO
+Logistics and Transportation,Reverse Logistics Costs,MKPF
+Logistics and Transportation,Reverse Logistics Costs,MSEG
+Logistics and Transportation,Reverse Logistics Costs,LFA1
+Logistics and Transportation,Reverse Logistics Costs,KNA1
+Logistics and Transportation,Customs and Tariffs,LIKP
+Logistics and Transportation,Customs and Tariffs,LIPS
+Logistics and Transportation,Customs and Tariffs,VTTK
+Logistics and Transportation,Customs and Tariffs,VTTP
+Logistics and Transportation,Customs and Tariffs,VTTS
+Logistics and Transportation,Customs and Tariffs,VFKP
+Logistics and Transportation,Customs and Tariffs,VFKN
+Logistics and Transportation,Customs and Tariffs,VTFA
+Logistics and Transportation,Customs and Tariffs,EKPO
+Logistics and Transportation,Customs and Tariffs,MKPF
+Logistics and Transportation,Customs and Tariffs,MSEG
+Logistics and Transportation,Customs and Tariffs,LFA1
+Logistics and Transportation,Customs and Tariffs,KNA1
+Logistics and Transportation,Delivery Lead Time Variability,LIKP
+Logistics and Transportation,Delivery Lead Time Variability,LIPS
+Logistics and Transportation,Delivery Lead Time Variability,VTTK
+Logistics and Transportation,Delivery Lead Time Variability,VTTP
+Logistics and Transportation,Delivery Lead Time Variability,VTTS
+Logistics and Transportation,Delivery Lead Time Variability,VFKP
+Logistics and Transportation,Delivery Lead Time Variability,VFKN
+Logistics and Transportation,Delivery Lead Time Variability,VTFA
+Logistics and Transportation,Delivery Lead Time Variability,EKPO
+Logistics and Transportation,Delivery Lead Time Variability,MKPF
+Logistics and Transportation,Delivery Lead Time Variability,MSEG
+Logistics and Transportation,Delivery Lead Time Variability,LFA1
+Logistics and Transportation,Delivery Lead Time Variability,KNA1
+Logistics and Transportation,Carbon Emissions per Shipment,LIKP
+Logistics and Transportation,Carbon Emissions per Shipment,LIPS
+Logistics and Transportation,Carbon Emissions per Shipment,VTTK
+Logistics and Transportation,Carbon Emissions per Shipment,VTTP
+Logistics and Transportation,Carbon Emissions per Shipment,VTTS
+Logistics and Transportation,Carbon Emissions per Shipment,VFKP
+Logistics and Transportation,Carbon Emissions per Shipment,VFKN
+Logistics and Transportation,Carbon Emissions per Shipment,VTFA
+Logistics and Transportation,Carbon Emissions per Shipment,EKPO
+Logistics and Transportation,Carbon Emissions per Shipment,MKPF
+Logistics and Transportation,Carbon Emissions per Shipment,MSEG
+Logistics and Transportation,Carbon Emissions per Shipment,LFA1
+Logistics and Transportation,Carbon Emissions per Shipment,KNA1
+Logistics and Transportation,Dropsize per shipment,LIKP
+Logistics and Transportation,Dropsize per shipment,LIPS
+Logistics and Transportation,Dropsize per shipment,VTTK
+Logistics and Transportation,Dropsize per shipment,VTTP
+Logistics and Transportation,Dropsize per shipment,VTTS
+Logistics and Transportation,Dropsize per shipment,VFKP
+Logistics and Transportation,Dropsize per shipment,VFKN
+Logistics and Transportation,Dropsize per shipment,VTFA
+Logistics and Transportation,Dropsize per shipment,EKPO
+Logistics and Transportation,Dropsize per shipment,MKPF
+Logistics and Transportation,Dropsize per shipment,MSEG
+Logistics and Transportation,Dropsize per shipment,LFA1
+Logistics and Transportation,Dropsize per shipment,KNA1
+Logistics and Transportation,Client frequency,LIKP
+Logistics and Transportation,Client frequency,LIPS
+Logistics and Transportation,Client frequency,VTTK
+Logistics and Transportation,Client frequency,VTTP
+Logistics and Transportation,Client frequency,VTTS
+Logistics and Transportation,Client frequency,VFKP
+Logistics and Transportation,Client frequency,VFKN
+Logistics and Transportation,Client frequency,VTFA
+Logistics and Transportation,Client frequency,EKPO
+Logistics and Transportation,Client frequency,MKPF
+Logistics and Transportation,Client frequency,MSEG
+Logistics and Transportation,Client frequency,LFA1
+Logistics and Transportation,Client frequency,KNA1
+Warehouse Management,Picking Accuracy,LQUA
+Warehouse Management,Picking Accuracy,LAGP
+Warehouse Management,Picking Accuracy,LTAK
+Warehouse Management,Picking Accuracy,LTAP
+Warehouse Management,Picking Accuracy,LTBK
+Warehouse Management,Picking Accuracy,LTBP
+Warehouse Management,Picking Accuracy,LEIN
+Warehouse Management,Picking Accuracy,RLGRAP
+Warehouse Management,Picking Accuracy,MARD
+Warehouse Management,Picking Accuracy,MKPF
+Warehouse Management,Picking Accuracy,MSEG
+Warehouse Management,Picking Accuracy,LIKP
+Warehouse Management,Picking Accuracy,LIPS
+Warehouse Management,Order Cycle Time,LQUA
+Warehouse Management,Order Cycle Time,LAGP
+Warehouse Management,Order Cycle Time,LTAK
+Warehouse Management,Order Cycle Time,LTAP
+Warehouse Management,Order Cycle Time,LTBK
+Warehouse Management,Order Cycle Time,LTBP
+Warehouse Management,Order Cycle Time,LEIN
+Warehouse Management,Order Cycle Time,RLGRAP
+Warehouse Management,Order Cycle Time,MARD
+Warehouse Management,Order Cycle Time,MKPF
+Warehouse Management,Order Cycle Time,MSEG
+Warehouse Management,Order Cycle Time,LIKP
+Warehouse Management,Order Cycle Time,LIPS
+Warehouse Management,Labor Utilization,LQUA
+Warehouse Management,Labor Utilization,LAGP
+Warehouse Management,Labor Utilization,LTAK
+Warehouse Management,Labor Utilization,LTAP
+Warehouse Management,Labor Utilization,LTBK
+Warehouse Management,Labor Utilization,LTBP
+Warehouse Management,Labor Utilization,LEIN
+Warehouse Management,Labor Utilization,RLGRAP
+Warehouse Management,Labor Utilization,MARD
+Warehouse Management,Labor Utilization,MKPF
+Warehouse Management,Labor Utilization,MSEG
+Warehouse Management,Labor Utilization,LIKP
+Warehouse Management,Labor Utilization,LIPS
+Warehouse Management,Storage Space Utilization,LQUA
+Warehouse Management,Storage Space Utilization,LAGP
+Warehouse Management,Storage Space Utilization,LTAK
+Warehouse Management,Storage Space Utilization,LTAP
+Warehouse Management,Storage Space Utilization,LTBK
+Warehouse Management,Storage Space Utilization,LTBP
+Warehouse Management,Storage Space Utilization,LEIN
+Warehouse Management,Storage Space Utilization,RLGRAP
+Warehouse Management,Storage Space Utilization,MARD
+Warehouse Management,Storage Space Utilization,MKPF
+Warehouse Management,Storage Space Utilization,MSEG
+Warehouse Management,Storage Space Utilization,LIKP
+Warehouse Management,Storage Space Utilization,LIPS
+Warehouse Management,Average Warehouse Stay,LQUA
+Warehouse Management,Average Warehouse Stay,LAGP
+Warehouse Management,Average Warehouse Stay,LTAK
+Warehouse Management,Average Warehouse Stay,LTAP
+Warehouse Management,Average Warehouse Stay,LTBK
+Warehouse Management,Average Warehouse Stay,LTBP
+Warehouse Management,Average Warehouse Stay,LEIN
+Warehouse Management,Average Warehouse Stay,RLGRAP
+Warehouse Management,Average Warehouse Stay,MARD
+Warehouse Management,Average Warehouse Stay,MKPF
+Warehouse Management,Average Warehouse Stay,MSEG
+Warehouse Management,Average Warehouse Stay,LIKP
+Warehouse Management,Average Warehouse Stay,LIPS
+Warehouse Management,Order Fulfillment Rate,LQUA
+Warehouse Management,Order Fulfillment Rate,LAGP
+Warehouse Management,Order Fulfillment Rate,LTAK
+Warehouse Management,Order Fulfillment Rate,LTAP
+Warehouse Management,Order Fulfillment Rate,LTBK
+Warehouse Management,Order Fulfillment Rate,LTBP
+Warehouse Management,Order Fulfillment Rate,LEIN
+Warehouse Management,Order Fulfillment Rate,RLGRAP
+Warehouse Management,Order Fulfillment Rate,MARD
+Warehouse Management,Order Fulfillment Rate,MKPF
+Warehouse Management,Order Fulfillment Rate,MSEG
+Warehouse Management,Order Fulfillment Rate,LIKP
+Warehouse Management,Order Fulfillment Rate,LIPS
+Warehouse Management,Equipment Downtime,LQUA
+Warehouse Management,Equipment Downtime,LAGP
+Warehouse Management,Equipment Downtime,LTAK
+Warehouse Management,Equipment Downtime,LTAP
+Warehouse Management,Equipment Downtime,LTBK
+Warehouse Management,Equipment Downtime,LTBP
+Warehouse Management,Equipment Downtime,LEIN
+Warehouse Management,Equipment Downtime,RLGRAP
+Warehouse Management,Equipment Downtime,MARD
+Warehouse Management,Equipment Downtime,MKPF
+Warehouse Management,Equipment Downtime,MSEG
+Warehouse Management,Equipment Downtime,LIKP
+Warehouse Management,Equipment Downtime,LIPS
+Warehouse Management,Inbound/Outbound Freight Coordination,LQUA
+Warehouse Management,Inbound/Outbound Freight Coordination,LAGP
+Warehouse Management,Inbound/Outbound Freight Coordination,LTAK
+Warehouse Management,Inbound/Outbound Freight Coordination,LTAP
+Warehouse Management,Inbound/Outbound Freight Coordination,LTBK
+Warehouse Management,Inbound/Outbound Freight Coordination,LTBP
+Warehouse Management,Inbound/Outbound Freight Coordination,LEIN
+Warehouse Management,Inbound/Outbound Freight Coordination,RLGRAP
+Warehouse Management,Inbound/Outbound Freight Coordination,MARD
+Warehouse Management,Inbound/Outbound Freight Coordination,MKPF
+Warehouse Management,Inbound/Outbound Freight Coordination,MSEG
+Warehouse Management,Inbound/Outbound Freight Coordination,LIKP
+Warehouse Management,Inbound/Outbound Freight Coordination,LIPS
+Warehouse Management,Inventory Damage Rates,LQUA
+Warehouse Management,Inventory Damage Rates,LAGP
+Warehouse Management,Inventory Damage Rates,LTAK
+Warehouse Management,Inventory Damage Rates,LTAP
+Warehouse Management,Inventory Damage Rates,LTBK
+Warehouse Management,Inventory Damage Rates,LTBP
+Warehouse Management,Inventory Damage Rates,LEIN
+Warehouse Management,Inventory Damage Rates,RLGRAP
+Warehouse Management,Inventory Damage Rates,MARD
+Warehouse Management,Inventory Damage Rates,MKPF
+Warehouse Management,Inventory Damage Rates,MSEG
+Warehouse Management,Inventory Damage Rates,LIKP
+Warehouse Management,Inventory Damage Rates,LIPS
+Warehouse Management,Temperature Control Monitoring,LQUA
+Warehouse Management,Temperature Control Monitoring,LAGP
+Warehouse Management,Temperature Control Monitoring,LTAK
+Warehouse Management,Temperature Control Monitoring,LTAP
+Warehouse Management,Temperature Control Monitoring,LTBK
+Warehouse Management,Temperature Control Monitoring,LTBP
+Warehouse Management,Temperature Control Monitoring,LEIN
+Warehouse Management,Temperature Control Monitoring,RLGRAP
+Warehouse Management,Temperature Control Monitoring,MARD
+Warehouse Management,Temperature Control Monitoring,MKPF
+Warehouse Management,Temperature Control Monitoring,MSEG
+Warehouse Management,Temperature Control Monitoring,LIKP
+Warehouse Management,Temperature Control Monitoring,LIPS
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBAK
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBAP
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBUK
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBUP
+Customer Service and Returns,OTIF and Customer Delivery Performance,LIKP
+Customer Service and Returns,OTIF and Customer Delivery Performance,LIPS
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBRK
+Customer Service and Returns,OTIF and Customer Delivery Performance,VBRP
+Customer Service and Returns,OTIF and Customer Delivery Performance,QMEL
+Customer Service and Returns,OTIF and Customer Delivery Performance,SER01
+Customer Service and Returns,OTIF and Customer Delivery Performance,OBJK
+Customer Service and Returns,OTIF and Customer Delivery Performance,CRHD
+Customer Service and Returns,Planned production for sales orders,VBAK
+Customer Service and Returns,Planned production for sales orders,VBAP
+Customer Service and Returns,Planned production for sales orders,VBUK
+Customer Service and Returns,Planned production for sales orders,VBUP
+Customer Service and Returns,Planned production for sales orders,LIKP
+Customer Service and Returns,Planned production for sales orders,LIPS
+Customer Service and Returns,Planned production for sales orders,VBRK
+Customer Service and Returns,Planned production for sales orders,VBRP
+Customer Service and Returns,Planned production for sales orders,QMEL
+Customer Service and Returns,Planned production for sales orders,SER01
+Customer Service and Returns,Planned production for sales orders,OBJK
+Customer Service and Returns,Planned production for sales orders,CRHD
+Customer Service and Returns,Return Rate Analysis,VBAK
+Customer Service and Returns,Return Rate Analysis,VBAP
+Customer Service and Returns,Return Rate Analysis,VBUK
+Customer Service and Returns,Return Rate Analysis,VBUP
+Customer Service and Returns,Return Rate Analysis,LIKP
+Customer Service and Returns,Return Rate Analysis,LIPS
+Customer Service and Returns,Return Rate Analysis,VBRK
+Customer Service and Returns,Return Rate Analysis,VBRP
+Customer Service and Returns,Return Rate Analysis,QMEL
+Customer Service and Returns,Return Rate Analysis,SER01
+Customer Service and Returns,Return Rate Analysis,OBJK
+Customer Service and Returns,Return Rate Analysis,CRHD
+Customer Service and Returns,Customer Complaint Rate,VBAK
+Customer Service and Returns,Customer Complaint Rate,VBAP
+Customer Service and Returns,Customer Complaint Rate,VBUK
+Customer Service and Returns,Customer Complaint Rate,VBUP
+Customer Service and Returns,Customer Complaint Rate,LIKP
+Customer Service and Returns,Customer Complaint Rate,LIPS
+Customer Service and Returns,Customer Complaint Rate,VBRK
+Customer Service and Returns,Customer Complaint Rate,VBRP
+Customer Service and Returns,Customer Complaint Rate,QMEL
+Customer Service and Returns,Customer Complaint Rate,SER01
+Customer Service and Returns,Customer Complaint Rate,OBJK
+Customer Service and Returns,Customer Complaint Rate,CRHD
+Customer Service and Returns,First Contact Resolution,VBAK
+Customer Service and Returns,First Contact Resolution,VBAP
+Customer Service and Returns,First Contact Resolution,VBUK
+Customer Service and Returns,First Contact Resolution,VBUP
+Customer Service and Returns,First Contact Resolution,LIKP
+Customer Service and Returns,First Contact Resolution,LIPS
+Customer Service and Returns,First Contact Resolution,VBRK
+Customer Service and Returns,First Contact Resolution,VBRP
+Customer Service and Returns,First Contact Resolution,QMEL
+Customer Service and Returns,First Contact Resolution,SER01
+Customer Service and Returns,First Contact Resolution,OBJK
+Customer Service and Returns,First Contact Resolution,CRHD
+Customer Service and Returns,Warranty Claim Rates,VBAK
+Customer Service and Returns,Warranty Claim Rates,VBAP
+Customer Service and Returns,Warranty Claim Rates,VBUK
+Customer Service and Returns,Warranty Claim Rates,VBUP
+Customer Service and Returns,Warranty Claim Rates,LIKP
+Customer Service and Returns,Warranty Claim Rates,LIPS
+Customer Service and Returns,Warranty Claim Rates,VBRK
+Customer Service and Returns,Warranty Claim Rates,VBRP
+Customer Service and Returns,Warranty Claim Rates,QMEL
+Customer Service and Returns,Warranty Claim Rates,SER01
+Customer Service and Returns,Warranty Claim Rates,OBJK
+Customer Service and Returns,Warranty Claim Rates,CRHD
+Customer Service and Returns,Response Time,VBAK
+Customer Service and Returns,Response Time,VBAP
+Customer Service and Returns,Response Time,VBUK
+Customer Service and Returns,Response Time,VBUP
+Customer Service and Returns,Response Time,LIKP
+Customer Service and Returns,Response Time,LIPS
+Customer Service and Returns,Response Time,VBRK
+Customer Service and Returns,Response Time,VBRP
+Customer Service and Returns,Response Time,QMEL
+Customer Service and Returns,Response Time,SER01
+Customer Service and Returns,Response Time,OBJK
+Customer Service and Returns,Response Time,CRHD
+Customer Service and Returns,Refund and Reimbursement Costs,VBAK
+Customer Service and Returns,Refund and Reimbursement Costs,VBAP
+Customer Service and Returns,Refund and Reimbursement Costs,VBUK
+Customer Service and Returns,Refund and Reimbursement Costs,VBUP
+Customer Service and Returns,Refund and Reimbursement Costs,LIKP
+Customer Service and Returns,Refund and Reimbursement Costs,LIPS
+Customer Service and Returns,Refund and Reimbursement Costs,VBRK
+Customer Service and Returns,Refund and Reimbursement Costs,VBRP
+Customer Service and Returns,Refund and Reimbursement Costs,QMEL
+Customer Service and Returns,Refund and Reimbursement Costs,SER01
+Customer Service and Returns,Refund and Reimbursement Costs,OBJK
+Customer Service and Returns,Refund and Reimbursement Costs,CRHD
+Customer Service and Returns,Customer Satisfaction Score,VBAK
+Customer Service and Returns,Customer Satisfaction Score,VBAP
+Customer Service and Returns,Customer Satisfaction Score,VBUK
+Customer Service and Returns,Customer Satisfaction Score,VBUP
+Customer Service and Returns,Customer Satisfaction Score,LIKP
+Customer Service and Returns,Customer Satisfaction Score,LIPS
+Customer Service and Returns,Customer Satisfaction Score,VBRK
+Customer Service and Returns,Customer Satisfaction Score,VBRP
+Customer Service and Returns,Customer Satisfaction Score,QMEL
+Customer Service and Returns,Customer Satisfaction Score,SER01
+Customer Service and Returns,Customer Satisfaction Score,OBJK
+Customer Service and Returns,Customer Satisfaction Score,CRHD
+Customer Service and Returns,Return Processing Time,VBAK
+Customer Service and Returns,Return Processing Time,VBAP
+Customer Service and Returns,Return Processing Time,VBUK
+Customer Service and Returns,Return Processing Time,VBUP
+Customer Service and Returns,Return Processing Time,LIKP
+Customer Service and Returns,Return Processing Time,LIPS
+Customer Service and Returns,Return Processing Time,VBRK
+Customer Service and Returns,Return Processing Time,VBRP
+Customer Service and Returns,Return Processing Time,QMEL
+Customer Service and Returns,Return Processing Time,SER01
+Customer Service and Returns,Return Processing Time,OBJK
+Customer Service and Returns,Return Processing Time,CRHD
+Customer Service and Returns,Customer Retention Rate,VBAK
+Customer Service and Returns,Customer Retention Rate,VBAP
+Customer Service and Returns,Customer Retention Rate,VBUK
+Customer Service and Returns,Customer Retention Rate,VBUP
+Customer Service and Returns,Customer Retention Rate,LIKP
+Customer Service and Returns,Customer Retention Rate,LIPS
+Customer Service and Returns,Customer Retention Rate,VBRK
+Customer Service and Returns,Customer Retention Rate,VBRP
+Customer Service and Returns,Customer Retention Rate,QMEL
+Customer Service and Returns,Customer Retention Rate,SER01
+Customer Service and Returns,Customer Retention Rate,OBJK
+Customer Service and Returns,Customer Retention Rate,CRHD
+Customer Service and Returns,Average lead time,VBAK
+Customer Service and Returns,Average lead time,VBAP
+Customer Service and Returns,Average lead time,VBUK
+Customer Service and Returns,Average lead time,VBUP
+Customer Service and Returns,Average lead time,LIKP
+Customer Service and Returns,Average lead time,LIPS
+Customer Service and Returns,Average lead time,VBRK
+Customer Service and Returns,Average lead time,VBRP
+Customer Service and Returns,Average lead time,QMEL
+Customer Service and Returns,Average lead time,SER01
+Customer Service and Returns,Average lead time,OBJK
+Customer Service and Returns,Average lead time,CRHD
+Sales,Sales Performance by Product,VBAK
+Sales,Sales Performance by Product,VBAP
+Sales,Sales Performance by Product,VBEP
+Sales,Sales Performance by Product,VBPA
+Sales,Sales Performance by Product,VBUK
+Sales,Sales Performance by Product,VBUP
+Sales,Sales Performance by Product,LIKP
+Sales,Sales Performance by Product,LIPS
+Sales,Sales Performance by Product,VBRK
+Sales,Sales Performance by Product,VBRP
+Sales,Sales Performance by Product,VBKD
+Sales,Sales Performance by Product,KNVV
+Sales,Sales Performance by Product,KNA1
+Sales,Sales Performance by Product,KONV
+Sales,Sales Performance by Product,VBFA
+Sales,Customer Acquisition Cost (CAC),VBAK
+Sales,Customer Acquisition Cost (CAC),VBAP
+Sales,Customer Acquisition Cost (CAC),VBEP
+Sales,Customer Acquisition Cost (CAC),VBPA
+Sales,Customer Acquisition Cost (CAC),VBUK
+Sales,Customer Acquisition Cost (CAC),VBUP
+Sales,Customer Acquisition Cost (CAC),LIKP
+Sales,Customer Acquisition Cost (CAC),LIPS
+Sales,Customer Acquisition Cost (CAC),VBRK
+Sales,Customer Acquisition Cost (CAC),VBRP
+Sales,Customer Acquisition Cost (CAC),VBKD
+Sales,Customer Acquisition Cost (CAC),KNVV
+Sales,Customer Acquisition Cost (CAC),KNA1
+Sales,Customer Acquisition Cost (CAC),KONV
+Sales,Customer Acquisition Cost (CAC),VBFA
+Sales,Sales Pipeline Health,VBAK
+Sales,Sales Pipeline Health,VBAP
+Sales,Sales Pipeline Health,VBEP
+Sales,Sales Pipeline Health,VBPA
+Sales,Sales Pipeline Health,VBUK
+Sales,Sales Pipeline Health,VBUP
+Sales,Sales Pipeline Health,LIKP
+Sales,Sales Pipeline Health,LIPS
+Sales,Sales Pipeline Health,VBRK
+Sales,Sales Pipeline Health,VBRP
+Sales,Sales Pipeline Health,VBKD
+Sales,Sales Pipeline Health,KNVV
+Sales,Sales Pipeline Health,KNA1
+Sales,Sales Pipeline Health,KONV
+Sales,Sales Pipeline Health,VBFA
+Sales,Lead Conversion Rates,VBAK
+Sales,Lead Conversion Rates,VBAP
+Sales,Lead Conversion Rates,VBEP
+Sales,Lead Conversion Rates,VBPA
+Sales,Lead Conversion Rates,VBUK
+Sales,Lead Conversion Rates,VBUP
+Sales,Lead Conversion Rates,LIKP
+Sales,Lead Conversion Rates,LIPS
+Sales,Lead Conversion Rates,VBRK
+Sales,Lead Conversion Rates,VBRP
+Sales,Lead Conversion Rates,VBKD
+Sales,Lead Conversion Rates,KNVV
+Sales,Lead Conversion Rates,KNA1
+Sales,Lead Conversion Rates,KONV
+Sales,Lead Conversion Rates,VBFA
+Sales,Revenue by Sales Channel,VBAK
+Sales,Revenue by Sales Channel,VBAP
+Sales,Revenue by Sales Channel,VBEP
+Sales,Revenue by Sales Channel,VBPA
+Sales,Revenue by Sales Channel,VBUK
+Sales,Revenue by Sales Channel,VBUP
+Sales,Revenue by Sales Channel,LIKP
+Sales,Revenue by Sales Channel,LIPS
+Sales,Revenue by Sales Channel,VBRK
+Sales,Revenue by Sales Channel,VBRP
+Sales,Revenue by Sales Channel,VBKD
+Sales,Revenue by Sales Channel,KNVV
+Sales,Revenue by Sales Channel,KNA1
+Sales,Revenue by Sales Channel,KONV
+Sales,Revenue by Sales Channel,VBFA
+Sales,Customer Retention and Churn Rate,VBAK
+Sales,Customer Retention and Churn Rate,VBAP
+Sales,Customer Retention and Churn Rate,VBEP
+Sales,Customer Retention and Churn Rate,VBPA
+Sales,Customer Retention and Churn Rate,VBUK
+Sales,Customer Retention and Churn Rate,VBUP
+Sales,Customer Retention and Churn Rate,LIKP
+Sales,Customer Retention and Churn Rate,LIPS
+Sales,Customer Retention and Churn Rate,VBRK
+Sales,Customer Retention and Churn Rate,VBRP
+Sales,Customer Retention and Churn Rate,VBKD
+Sales,Customer Retention and Churn Rate,KNVV
+Sales,Customer Retention and Churn Rate,KNA1
+Sales,Customer Retention and Churn Rate,KONV
+Sales,Customer Retention and Churn Rate,VBFA
+Sales,Sales Cycle Length,VBAK
+Sales,Sales Cycle Length,VBAP
+Sales,Sales Cycle Length,VBEP
+Sales,Sales Cycle Length,VBPA
+Sales,Sales Cycle Length,VBUK
+Sales,Sales Cycle Length,VBUP
+Sales,Sales Cycle Length,LIKP
+Sales,Sales Cycle Length,LIPS
+Sales,Sales Cycle Length,VBRK
+Sales,Sales Cycle Length,VBRP
+Sales,Sales Cycle Length,VBKD
+Sales,Sales Cycle Length,KNVV
+Sales,Sales Cycle Length,KNA1
+Sales,Sales Cycle Length,KONV
+Sales,Sales Cycle Length,VBFA
+Sales,Discount and Promotion Effectiveness,VBAK
+Sales,Discount and Promotion Effectiveness,VBAP
+Sales,Discount and Promotion Effectiveness,VBEP
+Sales,Discount and Promotion Effectiveness,VBPA
+Sales,Discount and Promotion Effectiveness,VBUK
+Sales,Discount and Promotion Effectiveness,VBUP
+Sales,Discount and Promotion Effectiveness,LIKP
+Sales,Discount and Promotion Effectiveness,LIPS
+Sales,Discount and Promotion Effectiveness,VBRK
+Sales,Discount and Promotion Effectiveness,VBRP
+Sales,Discount and Promotion Effectiveness,VBKD
+Sales,Discount and Promotion Effectiveness,KNVV
+Sales,Discount and Promotion Effectiveness,KNA1
+Sales,Discount and Promotion Effectiveness,KONV
+Sales,Discount and Promotion Effectiveness,VBFA
+Sales,Top Sales Representatives,VBAK
+Sales,Top Sales Representatives,VBAP
+Sales,Top Sales Representatives,VBEP
+Sales,Top Sales Representatives,VBPA
+Sales,Top Sales Representatives,VBUK
+Sales,Top Sales Representatives,VBUP
+Sales,Top Sales Representatives,LIKP
+Sales,Top Sales Representatives,LIPS
+Sales,Top Sales Representatives,VBRK
+Sales,Top Sales Representatives,VBRP
+Sales,Top Sales Representatives,VBKD
+Sales,Top Sales Representatives,KNVV
+Sales,Top Sales Representatives,KNA1
+Sales,Top Sales Representatives,KONV
+Sales,Top Sales Representatives,VBFA
+Sales,Market Segmentation Performance,VBAK
+Sales,Market Segmentation Performance,VBAP
+Sales,Market Segmentation Performance,VBEP
+Sales,Market Segmentation Performance,VBPA
+Sales,Market Segmentation Performance,VBUK
+Sales,Market Segmentation Performance,VBUP
+Sales,Market Segmentation Performance,LIKP
+Sales,Market Segmentation Performance,LIPS
+Sales,Market Segmentation Performance,VBRK
+Sales,Market Segmentation Performance,VBRP
+Sales,Market Segmentation Performance,VBKD
+Sales,Market Segmentation Performance,KNVV
+Sales,Market Segmentation Performance,KNA1
+Sales,Market Segmentation Performance,KONV
+Sales,Market Segmentation Performance,VBFA
+Controlling,Budget vs. Actual Performance,BKPF
+Controlling,Budget vs. Actual Performance,BSEG
+Controlling,Budget vs. Actual Performance,FAGLFLEXA
+Controlling,Budget vs. Actual Performance,COBK
+Controlling,Budget vs. Actual Performance,COEP
+Controlling,Budget vs. Actual Performance,COSP
+Controlling,Budget vs. Actual Performance,COSS
+Controlling,Budget vs. Actual Performance,CSKA
+Controlling,Budget vs. Actual Performance,CSKB
+Controlling,Budget vs. Actual Performance,CSKS
+Controlling,Budget vs. Actual Performance,CSKT
+Controlling,Budget vs. Actual Performance,ANLA
+Controlling,Budget vs. Actual Performance,ANEP
+Controlling,Budget vs. Actual Performance,MLCD
+Controlling,Budget vs. Actual Performance,BSAK
+Controlling,Budget vs. Actual Performance,BSAD
+Controlling,Budget vs. Actual Performance,BSAS
+Controlling,Budget vs. Actual Performance,BSID
+Controlling,Budget vs. Actual Performance,BSIK
+Controlling,Cost Variance Analysis,BKPF
+Controlling,Cost Variance Analysis,BSEG
+Controlling,Cost Variance Analysis,FAGLFLEXA
+Controlling,Cost Variance Analysis,COBK
+Controlling,Cost Variance Analysis,COEP
+Controlling,Cost Variance Analysis,COSP
+Controlling,Cost Variance Analysis,COSS
+Controlling,Cost Variance Analysis,CSKA
+Controlling,Cost Variance Analysis,CSKB
+Controlling,Cost Variance Analysis,CSKS
+Controlling,Cost Variance Analysis,CSKT
+Controlling,Cost Variance Analysis,ANLA
+Controlling,Cost Variance Analysis,ANEP
+Controlling,Cost Variance Analysis,MLCD
+Controlling,Cost Variance Analysis,BSAK
+Controlling,Cost Variance Analysis,BSAD
+Controlling,Cost Variance Analysis,BSAS
+Controlling,Cost Variance Analysis,BSID
+Controlling,Cost Variance Analysis,BSIK
+Controlling,Cash Flow Analysis,BKPF
+Controlling,Cash Flow Analysis,BSEG
+Controlling,Cash Flow Analysis,FAGLFLEXA
+Controlling,Cash Flow Analysis,COBK
+Controlling,Cash Flow Analysis,COEP
+Controlling,Cash Flow Analysis,COSP
+Controlling,Cash Flow Analysis,COSS
+Controlling,Cash Flow Analysis,CSKA
+Controlling,Cash Flow Analysis,CSKB
+Controlling,Cash Flow Analysis,CSKS
+Controlling,Cash Flow Analysis,CSKT
+Controlling,Cash Flow Analysis,ANLA
+Controlling,Cash Flow Analysis,ANEP
+Controlling,Cash Flow Analysis,MLCD
+Controlling,Cash Flow Analysis,BSAK
+Controlling,Cash Flow Analysis,BSAD
+Controlling,Cash Flow Analysis,BSAS
+Controlling,Cash Flow Analysis,BSID
+Controlling,Cash Flow Analysis,BSIK
+Controlling,Profitability by Segment,BKPF
+Controlling,Profitability by Segment,BSEG
+Controlling,Profitability by Segment,FAGLFLEXA
+Controlling,Profitability by Segment,COBK
+Controlling,Profitability by Segment,COEP
+Controlling,Profitability by Segment,COSP
+Controlling,Profitability by Segment,COSS
+Controlling,Profitability by Segment,CSKA
+Controlling,Profitability by Segment,CSKB
+Controlling,Profitability by Segment,CSKS
+Controlling,Profitability by Segment,CSKT
+Controlling,Profitability by Segment,ANLA
+Controlling,Profitability by Segment,ANEP
+Controlling,Profitability by Segment,MLCD
+Controlling,Profitability by Segment,BSAK
+Controlling,Profitability by Segment,BSAD
+Controlling,Profitability by Segment,BSAS
+Controlling,Profitability by Segment,BSID
+Controlling,Profitability by Segment,BSIK
+Controlling,Overhead Cost Monitoring,BKPF
+Controlling,Overhead Cost Monitoring,BSEG
+Controlling,Overhead Cost Monitoring,FAGLFLEXA
+Controlling,Overhead Cost Monitoring,COBK
+Controlling,Overhead Cost Monitoring,COEP
+Controlling,Overhead Cost Monitoring,COSP
+Controlling,Overhead Cost Monitoring,COSS
+Controlling,Overhead Cost Monitoring,CSKA
+Controlling,Overhead Cost Monitoring,CSKB
+Controlling,Overhead Cost Monitoring,CSKS
+Controlling,Overhead Cost Monitoring,CSKT
+Controlling,Overhead Cost Monitoring,ANLA
+Controlling,Overhead Cost Monitoring,ANEP
+Controlling,Overhead Cost Monitoring,MLCD
+Controlling,Overhead Cost Monitoring,BSAK
+Controlling,Overhead Cost Monitoring,BSAD
+Controlling,Overhead Cost Monitoring,BSAS
+Controlling,Overhead Cost Monitoring,BSID
+Controlling,Overhead Cost Monitoring,BSIK
+Controlling,Cost Center Performance,BKPF
+Controlling,Cost Center Performance,BSEG
+Controlling,Cost Center Performance,FAGLFLEXA
+Controlling,Cost Center Performance,COBK
+Controlling,Cost Center Performance,COEP
+Controlling,Cost Center Performance,COSP
+Controlling,Cost Center Performance,COSS
+Controlling,Cost Center Performance,CSKA
+Controlling,Cost Center Performance,CSKB
+Controlling,Cost Center Performance,CSKS
+Controlling,Cost Center Performance,CSKT
+Controlling,Cost Center Performance,ANLA
+Controlling,Cost Center Performance,ANEP
+Controlling,Cost Center Performance,MLCD
+Controlling,Cost Center Performance,BSAK
+Controlling,Cost Center Performance,BSAD
+Controlling,Cost Center Performance,BSAS
+Controlling,Cost Center Performance,BSID
+Controlling,Cost Center Performance,BSIK
+Controlling,Capital Expenditure (CapEx) Tracking,BKPF
+Controlling,Capital Expenditure (CapEx) Tracking,BSEG
+Controlling,Capital Expenditure (CapEx) Tracking,FAGLFLEXA
+Controlling,Capital Expenditure (CapEx) Tracking,COBK
+Controlling,Capital Expenditure (CapEx) Tracking,COEP
+Controlling,Capital Expenditure (CapEx) Tracking,COSP
+Controlling,Capital Expenditure (CapEx) Tracking,COSS
+Controlling,Capital Expenditure (CapEx) Tracking,CSKA
+Controlling,Capital Expenditure (CapEx) Tracking,CSKB
+Controlling,Capital Expenditure (CapEx) Tracking,CSKS
+Controlling,Capital Expenditure (CapEx) Tracking,CSKT
+Controlling,Capital Expenditure (CapEx) Tracking,ANLA
+Controlling,Capital Expenditure (CapEx) Tracking,ANEP
+Controlling,Capital Expenditure (CapEx) Tracking,MLCD
+Controlling,Capital Expenditure (CapEx) Tracking,BSAK
+Controlling,Capital Expenditure (CapEx) Tracking,BSAD
+Controlling,Capital Expenditure (CapEx) Tracking,BSAS
+Controlling,Capital Expenditure (CapEx) Tracking,BSID
+Controlling,Capital Expenditure (CapEx) Tracking,BSIK
+Controlling,Working Capital Management,BKPF
+Controlling,Working Capital Management,BSEG
+Controlling,Working Capital Management,FAGLFLEXA
+Controlling,Working Capital Management,COBK
+Controlling,Working Capital Management,COEP
+Controlling,Working Capital Management,COSP
+Controlling,Working Capital Management,COSS
+Controlling,Working Capital Management,CSKA
+Controlling,Working Capital Management,CSKB
+Controlling,Working Capital Management,CSKS
+Controlling,Working Capital Management,CSKT
+Controlling,Working Capital Management,ANLA
+Controlling,Working Capital Management,ANEP
+Controlling,Working Capital Management,MLCD
+Controlling,Working Capital Management,BSAK
+Controlling,Working Capital Management,BSAD
+Controlling,Working Capital Management,BSAS
+Controlling,Working Capital Management,BSID
+Controlling,Working Capital Management,BSIK
+Controlling,Financial KPI Dashboard,BKPF
+Controlling,Financial KPI Dashboard,BSEG
+Controlling,Financial KPI Dashboard,FAGLFLEXA
+Controlling,Financial KPI Dashboard,COBK
+Controlling,Financial KPI Dashboard,COEP
+Controlling,Financial KPI Dashboard,COSP
+Controlling,Financial KPI Dashboard,COSS
+Controlling,Financial KPI Dashboard,CSKA
+Controlling,Financial KPI Dashboard,CSKB
+Controlling,Financial KPI Dashboard,CSKS
+Controlling,Financial KPI Dashboard,CSKT
+Controlling,Financial KPI Dashboard,ANLA
+Controlling,Financial KPI Dashboard,ANEP
+Controlling,Financial KPI Dashboard,MLCD
+Controlling,Financial KPI Dashboard,BSAK
+Controlling,Financial KPI Dashboard,BSAD
+Controlling,Financial KPI Dashboard,BSAS
+Controlling,Financial KPI Dashboard,BSID
+Controlling,Financial KPI Dashboard,BSIK
+Controlling,Replacement Product Costs,BKPF
+Controlling,Replacement Product Costs,BSEG
+Controlling,Replacement Product Costs,FAGLFLEXA
+Controlling,Replacement Product Costs,COBK
+Controlling,Replacement Product Costs,COEP
+Controlling,Replacement Product Costs,COSP
+Controlling,Replacement Product Costs,COSS
+Controlling,Replacement Product Costs,CSKA
+Controlling,Replacement Product Costs,CSKB
+Controlling,Replacement Product Costs,CSKS
+Controlling,Replacement Product Costs,CSKT
+Controlling,Replacement Product Costs,ANLA
+Controlling,Replacement Product Costs,ANEP
+Controlling,Replacement Product Costs,MLCD
+Controlling,Replacement Product Costs,BSAK
+Controlling,Replacement Product Costs,BSAD
+Controlling,Replacement Product Costs,BSAS
+Controlling,Replacement Product Costs,BSID
+Controlling,Replacement Product Costs,BSIK
+Controlling,Correction analysis,BKPF
+Controlling,Correction analysis,BSEG
+Controlling,Correction analysis,FAGLFLEXA
+Controlling,Correction analysis,COBK
+Controlling,Correction analysis,COEP
+Controlling,Correction analysis,COSP
+Controlling,Correction analysis,COSS
+Controlling,Correction analysis,CSKA
+Controlling,Correction analysis,CSKB
+Controlling,Correction analysis,CSKS
+Controlling,Correction analysis,CSKT
+Controlling,Correction analysis,ANLA
+Controlling,Correction analysis,ANEP
+Controlling,Correction analysis,MLCD
+Controlling,Correction analysis,BSAK
+Controlling,Correction analysis,BSAD
+Controlling,Correction analysis,BSAS
+Controlling,Correction analysis,BSID
+Controlling,Correction analysis,BSIK
+Human Resource,Absenteeism Reporting,PA0000
+Human Resource,Absenteeism Reporting,PA0001
+Human Resource,Absenteeism Reporting,PA0002
+Human Resource,Absenteeism Reporting,PA0006
+Human Resource,Absenteeism Reporting,PA0007
+Human Resource,Absenteeism Reporting,PA0008
+Human Resource,Absenteeism Reporting,PA0014
+Human Resource,Absenteeism Reporting,PA0015
+Human Resource,Absenteeism Reporting,PA2001
+Human Resource,Absenteeism Reporting,PA2002
+Human Resource,Absenteeism Reporting,PA2006
+Human Resource,Absenteeism Reporting,HRP1000
+Human Resource,Absenteeism Reporting,HRP1001
+Human Resource,Absenteeism Reporting,T527X
+Human Resource,Employee Turnover Rate,PA0000
+Human Resource,Employee Turnover Rate,PA0001
+Human Resource,Employee Turnover Rate,PA0002
+Human Resource,Employee Turnover Rate,PA0006
+Human Resource,Employee Turnover Rate,PA0007
+Human Resource,Employee Turnover Rate,PA0008
+Human Resource,Employee Turnover Rate,PA0014
+Human Resource,Employee Turnover Rate,PA0015
+Human Resource,Employee Turnover Rate,PA2001
+Human Resource,Employee Turnover Rate,PA2002
+Human Resource,Employee Turnover Rate,PA2006
+Human Resource,Employee Turnover Rate,HRP1000
+Human Resource,Employee Turnover Rate,HRP1001
+Human Resource,Employee Turnover Rate,T527X
+Human Resource,Recruitment Funnel Metrics,PA0000
+Human Resource,Recruitment Funnel Metrics,PA0001
+Human Resource,Recruitment Funnel Metrics,PA0002
+Human Resource,Recruitment Funnel Metrics,PA0006
+Human Resource,Recruitment Funnel Metrics,PA0007
+Human Resource,Recruitment Funnel Metrics,PA0008
+Human Resource,Recruitment Funnel Metrics,PA0014
+Human Resource,Recruitment Funnel Metrics,PA0015
+Human Resource,Recruitment Funnel Metrics,PA2001
+Human Resource,Recruitment Funnel Metrics,PA2002
+Human Resource,Recruitment Funnel Metrics,PA2006
+Human Resource,Recruitment Funnel Metrics,HRP1000
+Human Resource,Recruitment Funnel Metrics,HRP1001
+Human Resource,Recruitment Funnel Metrics,T527X
+Human Resource,Training and Development ROI,PA0000
+Human Resource,Training and Development ROI,PA0001
+Human Resource,Training and Development ROI,PA0002
+Human Resource,Training and Development ROI,PA0006
+Human Resource,Training and Development ROI,PA0007
+Human Resource,Training and Development ROI,PA0008
+Human Resource,Training and Development ROI,PA0014
+Human Resource,Training and Development ROI,PA0015
+Human Resource,Training and Development ROI,PA2001
+Human Resource,Training and Development ROI,PA2002
+Human Resource,Training and Development ROI,PA2006
+Human Resource,Training and Development ROI,HRP1000
+Human Resource,Training and Development ROI,HRP1001
+Human Resource,Training and Development ROI,T527X
+Human Resource,Employee Engagement Levels,PA0000
+Human Resource,Employee Engagement Levels,PA0001
+Human Resource,Employee Engagement Levels,PA0002
+Human Resource,Employee Engagement Levels,PA0006
+Human Resource,Employee Engagement Levels,PA0007
+Human Resource,Employee Engagement Levels,PA0008
+Human Resource,Employee Engagement Levels,PA0014
+Human Resource,Employee Engagement Levels,PA0015
+Human Resource,Employee Engagement Levels,PA2001
+Human Resource,Employee Engagement Levels,PA2002
+Human Resource,Employee Engagement Levels,PA2006
+Human Resource,Employee Engagement Levels,HRP1000
+Human Resource,Employee Engagement Levels,HRP1001
+Human Resource,Employee Engagement Levels,T527X
+Human Resource,Compensation Benchmarking,PA0000
+Human Resource,Compensation Benchmarking,PA0001
+Human Resource,Compensation Benchmarking,PA0002
+Human Resource,Compensation Benchmarking,PA0006
+Human Resource,Compensation Benchmarking,PA0007
+Human Resource,Compensation Benchmarking,PA0008
+Human Resource,Compensation Benchmarking,PA0014
+Human Resource,Compensation Benchmarking,PA0015
+Human Resource,Compensation Benchmarking,PA2001
+Human Resource,Compensation Benchmarking,PA2002
+Human Resource,Compensation Benchmarking,PA2006
+Human Resource,Compensation Benchmarking,HRP1000
+Human Resource,Compensation Benchmarking,HRP1001
+Human Resource,Compensation Benchmarking,T527X
+Human Resource,Diversity and Inclusion Metrics,PA0000
+Human Resource,Diversity and Inclusion Metrics,PA0001
+Human Resource,Diversity and Inclusion Metrics,PA0002
+Human Resource,Diversity and Inclusion Metrics,PA0006
+Human Resource,Diversity and Inclusion Metrics,PA0007
+Human Resource,Diversity and Inclusion Metrics,PA0008
+Human Resource,Diversity and Inclusion Metrics,PA0014
+Human Resource,Diversity and Inclusion Metrics,PA0015
+Human Resource,Diversity and Inclusion Metrics,PA2001
+Human Resource,Diversity and Inclusion Metrics,PA2002
+Human Resource,Diversity and Inclusion Metrics,PA2006
+Human Resource,Diversity and Inclusion Metrics,HRP1000
+Human Resource,Diversity and Inclusion Metrics,HRP1001
+Human Resource,Diversity and Inclusion Metrics,T527X
+Human Resource,Performance Management Trends,PA0000
+Human Resource,Performance Management Trends,PA0001
+Human Resource,Performance Management Trends,PA0002
+Human Resource,Performance Management Trends,PA0006
+Human Resource,Performance Management Trends,PA0007
+Human Resource,Performance Management Trends,PA0008
+Human Resource,Performance Management Trends,PA0014
+Human Resource,Performance Management Trends,PA0015
+Human Resource,Performance Management Trends,PA2001
+Human Resource,Performance Management Trends,PA2002
+Human Resource,Performance Management Trends,PA2006
+Human Resource,Performance Management Trends,HRP1000
+Human Resource,Performance Management Trends,HRP1001
+Human Resource,Performance Management Trends,T527X
+Human Resource,Overtime and Workforce Utilization,PA0000
+Human Resource,Overtime and Workforce Utilization,PA0001
+Human Resource,Overtime and Workforce Utilization,PA0002
+Human Resource,Overtime and Workforce Utilization,PA0006
+Human Resource,Overtime and Workforce Utilization,PA0007
+Human Resource,Overtime and Workforce Utilization,PA0008
+Human Resource,Overtime and Workforce Utilization,PA0014
+Human Resource,Overtime and Workforce Utilization,PA0015
+Human Resource,Overtime and Workforce Utilization,PA2001
+Human Resource,Overtime and Workforce Utilization,PA2002
+Human Resource,Overtime and Workforce Utilization,PA2006
+Human Resource,Overtime and Workforce Utilization,HRP1000
+Human Resource,Overtime and Workforce Utilization,HRP1001
+Human Resource,Overtime and Workforce Utilization,T527X
+Human Resource,Benefits Usage and Optimization,PA0000
+Human Resource,Benefits Usage and Optimization,PA0001
+Human Resource,Benefits Usage and Optimization,PA0002
+Human Resource,Benefits Usage and Optimization,PA0006
+Human Resource,Benefits Usage and Optimization,PA0007
+Human Resource,Benefits Usage and Optimization,PA0008
+Human Resource,Benefits Usage and Optimization,PA0014
+Human Resource,Benefits Usage and Optimization,PA0015
+Human Resource,Benefits Usage and Optimization,PA2001
+Human Resource,Benefits Usage and Optimization,PA2002
+Human Resource,Benefits Usage and Optimization,PA2006
+Human Resource,Benefits Usage and Optimization,HRP1000
+Human Resource,Benefits Usage and Optimization,HRP1001
+Human Resource,Benefits Usage and Optimization,T527X
+IT System and Data Integrity,Data Quality Metrics,CDHDR
+IT System and Data Integrity,Data Quality Metrics,CDPOS
+IT System and Data Integrity,Data Quality Metrics,BDCP2
+IT System and Data Integrity,Data Quality Metrics,BALHDR
+IT System and Data Integrity,Data Quality Metrics,BALDAT
+IT System and Data Integrity,Data Quality Metrics,EDIDC
+IT System and Data Integrity,Data Quality Metrics,EDID4
+IT System and Data Integrity,Data Quality Metrics,TBDLS
+IT System and Data Integrity,Data Quality Metrics,DD02L
+IT System and Data Integrity,Data Quality Metrics,DD03L
+IT System and Data Integrity,Data Quality Metrics,T000
+IT System and Data Integrity,Data Quality Metrics,USR02
+IT System and Data Integrity,Data Quality Metrics,AGR_USERS
+IT System and Data Integrity,Duplicate Records Check,CDHDR
+IT System and Data Integrity,Duplicate Records Check,CDPOS
+IT System and Data Integrity,Duplicate Records Check,BDCP2
+IT System and Data Integrity,Duplicate Records Check,BALHDR
+IT System and Data Integrity,Duplicate Records Check,BALDAT
+IT System and Data Integrity,Duplicate Records Check,EDIDC
+IT System and Data Integrity,Duplicate Records Check,EDID4
+IT System and Data Integrity,Duplicate Records Check,TBDLS
+IT System and Data Integrity,Duplicate Records Check,DD02L
+IT System and Data Integrity,Duplicate Records Check,DD03L
+IT System and Data Integrity,Duplicate Records Check,T000
+IT System and Data Integrity,Duplicate Records Check,USR02
+IT System and Data Integrity,Duplicate Records Check,AGR_USERS
+IT System and Data Integrity,Master Data Governance Compliance,CDHDR
+IT System and Data Integrity,Master Data Governance Compliance,CDPOS
+IT System and Data Integrity,Master Data Governance Compliance,BDCP2
+IT System and Data Integrity,Master Data Governance Compliance,BALHDR
+IT System and Data Integrity,Master Data Governance Compliance,BALDAT
+IT System and Data Integrity,Master Data Governance Compliance,EDIDC
+IT System and Data Integrity,Master Data Governance Compliance,EDID4
+IT System and Data Integrity,Master Data Governance Compliance,TBDLS
+IT System and Data Integrity,Master Data Governance Compliance,DD02L
+IT System and Data Integrity,Master Data Governance Compliance,DD03L
+IT System and Data Integrity,Master Data Governance Compliance,T000
+IT System and Data Integrity,Master Data Governance Compliance,USR02
+IT System and Data Integrity,Master Data Governance Compliance,AGR_USERS
+IT System and Data Integrity,Data Ownership and Stewardship,CDHDR
+IT System and Data Integrity,Data Ownership and Stewardship,CDPOS
+IT System and Data Integrity,Data Ownership and Stewardship,BDCP2
+IT System and Data Integrity,Data Ownership and Stewardship,BALHDR
+IT System and Data Integrity,Data Ownership and Stewardship,BALDAT
+IT System and Data Integrity,Data Ownership and Stewardship,EDIDC
+IT System and Data Integrity,Data Ownership and Stewardship,EDID4
+IT System and Data Integrity,Data Ownership and Stewardship,TBDLS
+IT System and Data Integrity,Data Ownership and Stewardship,DD02L
+IT System and Data Integrity,Data Ownership and Stewardship,DD03L
+IT System and Data Integrity,Data Ownership and Stewardship,T000
+IT System and Data Integrity,Data Ownership and Stewardship,USR02
+IT System and Data Integrity,Data Ownership and Stewardship,AGR_USERS
+IT System and Data Integrity,Data Update Frequency,CDHDR
+IT System and Data Integrity,Data Update Frequency,CDPOS
+IT System and Data Integrity,Data Update Frequency,BDCP2
+IT System and Data Integrity,Data Update Frequency,BALHDR
+IT System and Data Integrity,Data Update Frequency,BALDAT
+IT System and Data Integrity,Data Update Frequency,EDIDC
+IT System and Data Integrity,Data Update Frequency,EDID4
+IT System and Data Integrity,Data Update Frequency,TBDLS
+IT System and Data Integrity,Data Update Frequency,DD02L
+IT System and Data Integrity,Data Update Frequency,DD03L
+IT System and Data Integrity,Data Update Frequency,T000
+IT System and Data Integrity,Data Update Frequency,USR02
+IT System and Data Integrity,Data Update Frequency,AGR_USERS
+IT System and Data Integrity,Supplier and Vendor Master Data,CDHDR
+IT System and Data Integrity,Supplier and Vendor Master Data,CDPOS
+IT System and Data Integrity,Supplier and Vendor Master Data,BDCP2
+IT System and Data Integrity,Supplier and Vendor Master Data,BALHDR
+IT System and Data Integrity,Supplier and Vendor Master Data,BALDAT
+IT System and Data Integrity,Supplier and Vendor Master Data,EDIDC
+IT System and Data Integrity,Supplier and Vendor Master Data,EDID4
+IT System and Data Integrity,Supplier and Vendor Master Data,TBDLS
+IT System and Data Integrity,Supplier and Vendor Master Data,DD02L
+IT System and Data Integrity,Supplier and Vendor Master Data,DD03L
+IT System and Data Integrity,Supplier and Vendor Master Data,T000
+IT System and Data Integrity,Supplier and Vendor Master Data,USR02
+IT System and Data Integrity,Supplier and Vendor Master Data,AGR_USERS
+IT System and Data Integrity,Customer Master Data,CDHDR
+IT System and Data Integrity,Customer Master Data,CDPOS
+IT System and Data Integrity,Customer Master Data,BDCP2
+IT System and Data Integrity,Customer Master Data,BALHDR
+IT System and Data Integrity,Customer Master Data,BALDAT
+IT System and Data Integrity,Customer Master Data,EDIDC
+IT System and Data Integrity,Customer Master Data,EDID4
+IT System and Data Integrity,Customer Master Data,TBDLS
+IT System and Data Integrity,Customer Master Data,DD02L
+IT System and Data Integrity,Customer Master Data,DD03L
+IT System and Data Integrity,Customer Master Data,T000
+IT System and Data Integrity,Customer Master Data,USR02
+IT System and Data Integrity,Customer Master Data,AGR_USERS
+IT System and Data Integrity,Product Master Data,CDHDR
+IT System and Data Integrity,Product Master Data,CDPOS
+IT System and Data Integrity,Product Master Data,BDCP2
+IT System and Data Integrity,Product Master Data,BALHDR
+IT System and Data Integrity,Product Master Data,BALDAT
+IT System and Data Integrity,Product Master Data,EDIDC
+IT System and Data Integrity,Product Master Data,EDID4
+IT System and Data Integrity,Product Master Data,TBDLS
+IT System and Data Integrity,Product Master Data,DD02L
+IT System and Data Integrity,Product Master Data,DD03L
+IT System and Data Integrity,Product Master Data,T000
+IT System and Data Integrity,Product Master Data,USR02
+IT System and Data Integrity,Product Master Data,AGR_USERS
+IT System and Data Integrity,Hierarchy and data object relations,CDHDR
+IT System and Data Integrity,Hierarchy and data object relations,CDPOS
+IT System and Data Integrity,Hierarchy and data object relations,BDCP2
+IT System and Data Integrity,Hierarchy and data object relations,BALHDR
+IT System and Data Integrity,Hierarchy and data object relations,BALDAT
+IT System and Data Integrity,Hierarchy and data object relations,EDIDC
+IT System and Data Integrity,Hierarchy and data object relations,EDID4
+IT System and Data Integrity,Hierarchy and data object relations,TBDLS
+IT System and Data Integrity,Hierarchy and data object relations,DD02L
+IT System and Data Integrity,Hierarchy and data object relations,DD03L
+IT System and Data Integrity,Hierarchy and data object relations,T000
+IT System and Data Integrity,Hierarchy and data object relations,USR02
+IT System and Data Integrity,Hierarchy and data object relations,AGR_USERS
+IT System and Data Integrity,Integration with other IT Systems,CDHDR
+IT System and Data Integrity,Integration with other IT Systems,CDPOS
+IT System and Data Integrity,Integration with other IT Systems,BDCP2
+IT System and Data Integrity,Integration with other IT Systems,BALHDR
+IT System and Data Integrity,Integration with other IT Systems,BALDAT
+IT System and Data Integrity,Integration with other IT Systems,EDIDC
+IT System and Data Integrity,Integration with other IT Systems,EDID4
+IT System and Data Integrity,Integration with other IT Systems,TBDLS
+IT System and Data Integrity,Integration with other IT Systems,DD02L
+IT System and Data Integrity,Integration with other IT Systems,DD03L
+IT System and Data Integrity,Integration with other IT Systems,T000
+IT System and Data Integrity,Integration with other IT Systems,USR02
+IT System and Data Integrity,Integration with other IT Systems,AGR_USERS
+IT System and Data Integrity,Data Harmonization multiple SAP sources,CDHDR
+IT System and Data Integrity,Data Harmonization multiple SAP sources,CDPOS
+IT System and Data Integrity,Data Harmonization multiple SAP sources,BDCP2
+IT System and Data Integrity,Data Harmonization multiple SAP sources,BALHDR
+IT System and Data Integrity,Data Harmonization multiple SAP sources,BALDAT
+IT System and Data Integrity,Data Harmonization multiple SAP sources,EDIDC
+IT System and Data Integrity,Data Harmonization multiple SAP sources,EDID4
+IT System and Data Integrity,Data Harmonization multiple SAP sources,TBDLS
+IT System and Data Integrity,Data Harmonization multiple SAP sources,DD02L
+IT System and Data Integrity,Data Harmonization multiple SAP sources,DD03L
+IT System and Data Integrity,Data Harmonization multiple SAP sources,T000
+IT System and Data Integrity,Data Harmonization multiple SAP sources,USR02
+IT System and Data Integrity,Data Harmonization multiple SAP sources,AGR_USERS
+IT System and Data Integrity,Reporting development,CDHDR
+IT System and Data Integrity,Reporting development,CDPOS
+IT System and Data Integrity,Reporting development,BDCP2
+IT System and Data Integrity,Reporting development,BALHDR
+IT System and Data Integrity,Reporting development,BALDAT
+IT System and Data Integrity,Reporting development,EDIDC
+IT System and Data Integrity,Reporting development,EDID4
+IT System and Data Integrity,Reporting development,TBDLS
+IT System and Data Integrity,Reporting development,DD02L
+IT System and Data Integrity,Reporting development,DD03L
+IT System and Data Integrity,Reporting development,T000
+IT System and Data Integrity,Reporting development,USR02
+IT System and Data Integrity,Reporting development,AGR_USERS

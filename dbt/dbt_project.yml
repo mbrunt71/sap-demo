@@ -10,6 +10,10 @@ seed-paths: ["seeds"]
 
 models:
   mbr_snowflake_dbt_ai:
+    bronze:
+      +materialized: table
+      +database: DEMO
+      +schema: BRONZE
     silver:
       +materialized: table
       +database: DEMO

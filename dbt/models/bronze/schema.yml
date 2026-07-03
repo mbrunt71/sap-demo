@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: htecc_mara
+    description: Bronze SCD2 model for SAP ECC table MARA.
+    columns:
+      - name: business_key
+        description: Hash-based surrogate key for the SAP entity.
+      - name: valid_from
+        description: Start timestamp of the current version.
+      - name: valid_to
+        description: End timestamp for historical versions.
+      - name: is_current
+        description: Indicates whether the row is the active version.
+      - name: load_ts
+        description: Load timestamp for the row.
+
+  - name: htecc_kna1
+    description: Bronze SCD2 model for SAP ECC table KNA1.
+    columns:
+      - name: business_key
+        description: Hash-based surrogate key for the SAP entity.
+      - name: valid_from
+        description: Start timestamp of the current version.
+      - name: valid_to
+        description: End timestamp for historical versions.
+      - name: is_current
+        description: Indicates whether the row is the active version.
+      - name: load_ts
+        description: Load timestamp for the row.
+
+  - name: htecc_vbak
+    description: Bronze SCD2 model for SAP ECC table VBAK.
+    columns:
+      - name: business_key
+        description: Hash-based surrogate key for the SAP entity.
+      - name: valid_from
+        description: Start timestamp of the current version.
+      - name: valid_to
+        description: End timestamp for historical versions.
+      - name: is_current
+        description: Indicates whether the row is the active version.
+      - name: load_ts
+        description: Load timestamp for the row.

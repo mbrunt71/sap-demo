@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: sap_ecc
-    database: DEMO
+    database: SAP
     schema: SAP_ECC
     tables:
       # Sales & Distribution (SD)
