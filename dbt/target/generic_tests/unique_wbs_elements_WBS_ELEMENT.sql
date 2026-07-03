@@ -1,0 +1,1 @@
+{{ test_unique(column_name="WBS_ELEMENT", model=get_where_subquery(ref('wbs_elements'))) }}{{ config({"severity":"Warn","tags":[]}) }}

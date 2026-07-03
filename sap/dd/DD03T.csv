@@ -1,0 +1,146 @@
+TABNAME,FIELDNAME,AS4LOCAL,AS4VERS,DDLANGUAGE,DDTEXT
+AFKO,AUFNR,A,0000,E,Order Number
+AFKO,GAMNG,A,0000,E,Total order quantity
+AFKO,GMEIN,A,0000,E,Unit of measure for order quantity
+AFKO,GLTRS,A,0000,E,Scheduled finish date
+AFKO,GLTRP,A,0000,E,Scheduled start date
+AFKO,STLNR,A,0000,E,Bill of material number
+AFPO,AUFNR,A,0000,E,Order Number
+AFPO,POSNR,A,0000,E,Order item number
+AFPO,MATNR,A,0000,E,Material Number
+AFPO,PSMNG,A,0000,E,Order item quantity
+AFPO,MEINS,A,0000,E,Base unit of measure
+AFPO,WERKS,A,0000,E,Plant
+AUFK,AUFNR,A,0000,E,Order Number
+AUFK,AUTYP,A,0000,E,Order category
+AUFK,BUKRS,A,0000,E,Company Code
+AUFK,WERKS,A,0000,E,Plant
+AUFK,KOSTL,A,0000,E,Cost Center
+AUFK,ERDAT,A,0000,E,Created on
+BKPF,BUKRS,A,0000,E,Company Code
+BKPF,BELNR,A,0000,E,Accounting Document Number
+BKPF,GJAHR,A,0000,E,Fiscal Year
+BKPF,BLART,A,0000,E,Document Type
+BKPF,BUDAT,A,0000,E,Posting Date
+BKPF,BLDAT,A,0000,E,Document Date
+BKPF,WAERS,A,0000,E,Currency Key
+BSEG,BUKRS,A,0000,E,Company Code
+BSEG,BELNR,A,0000,E,Accounting Document Number
+BSEG,GJAHR,A,0000,E,Fiscal Year
+BSEG,BUZEI,A,0000,E,Line Item
+BSEG,KOART,A,0000,E,Account type
+BSEG,SHKZG,A,0000,E,Debit/Credit indicator
+BSEG,DMBTR,A,0000,E,Amount in local currency
+BSEG,WRBTR,A,0000,E,Amount in document currency
+BSEG,HKONT,A,0000,E,General ledger account
+BSEG,KOSTL,A,0000,E,Cost Center
+EKKO,EBELN,A,0000,E,Purchasing Document Number
+EKKO,BUKRS,A,0000,E,Company Code
+EKKO,BSTYP,A,0000,E,Purchasing document category
+EKKO,BSART,A,0000,E,Purchasing document type
+EKKO,LIFNR,A,0000,E,Vendor Account Number
+EKKO,EKORG,A,0000,E,Purchasing Organization
+EKKO,BEDAT,A,0000,E,Purchasing Document Date
+EKKO,WAERS,A,0000,E,Currency Key
+EKPO,EBELN,A,0000,E,Purchasing Document Number
+EKPO,EBELP,A,0000,E,Item Number
+EKPO,MATNR,A,0000,E,Material Number
+EKPO,MENGE,A,0000,E,Purchase Order Quantity
+EKPO,MEINS,A,0000,E,Order Unit
+EKPO,NETPR,A,0000,E,Net Price
+EKPO,WERKS,A,0000,E,Plant
+MARA,MATNR,A,0000,E,Material Number
+MARA,MTART,A,0000,E,Material Type
+MARA,MBRSH,A,0000,E,Industry Sector
+MARA,MATKL,A,0000,E,Material Group
+MARA,MEINS,A,0000,E,Base Unit of Measure
+MARA,BRGEW,A,0000,E,Gross Weight
+MARC,MATNR,A,0000,E,Material Number
+MARC,WERKS,A,0000,E,Plant
+MARC,DISMM,A,0000,E,MRP Type
+MARC,DISPO,A,0000,E,MRP Controller
+MARC,BESKZ,A,0000,E,Procurement Type
+MARD,MATNR,A,0000,E,Material Number
+MARD,WERKS,A,0000,E,Plant
+MARD,LGORT,A,0000,E,Storage Location
+MARD,LABST,A,0000,E,Valuated Unrestricted-Use Stock
+MARD,INSME,A,0000,E,Stock in Quality Inspection
+MARD,SPEME,A,0000,E,Blocked Stock
+MAKT,MATNR,A,0000,E,Material Number
+MAKT,SPRAS,A,0000,E,Language Key
+MAKT,MAKTX,A,0000,E,Material Description
+VBAK,VBELN,A,0000,E,Sales Document
+VBAK,AUART,A,0000,E,Sales Document Type
+VBAK,VKORG,A,0000,E,Sales Organization
+VBAK,VTWEG,A,0000,E,Distribution Channel
+VBAK,SPART,A,0000,E,Division
+VBAK,KUNNR,A,0000,E,Sold-to party
+VBAK,ERDAT,A,0000,E,Created on
+VBAK,NETWR,A,0000,E,Net Value
+VBAK,WAERK,A,0000,E,SD Document Currency
+VBAP,VBELN,A,0000,E,Sales Document
+VBAP,POSNR,A,0000,E,Sales Document Item
+VBAP,MATNR,A,0000,E,Material Number
+VBAP,KWMENG,A,0000,E,Cumulative order quantity
+VBAP,VRKME,A,0000,E,Sales unit
+VBAP,NETWR,A,0000,E,Net Value
+VBAP,WERKS,A,0000,E,Plant
+VBRK,VBELN,A,0000,E,Billing Document
+VBRK,FKART,A,0000,E,Billing Type
+VBRK,KUNNR,A,0000,E,Payer
+VBRK,FKDAT,A,0000,E,Billing Date
+VBRK,NETWR,A,0000,E,Net Value
+VBRK,WAERK,A,0000,E,SD Document Currency
+VBRP,VBELN,A,0000,E,Billing Document
+VBRP,POSNR,A,0000,E,Billing Item
+VBRP,MATNR,A,0000,E,Material Number
+VBRP,FKIMG,A,0000,E,Actual Invoiced Quantity
+VBRP,NETWR,A,0000,E,Net Value
+KNA1,KUNNR,A,0000,E,Customer Number
+KNA1,NAME1,A,0000,E,Name 1
+KNA1,LAND1,A,0000,E,Country Key
+KNA1,ORT01,A,0000,E,City
+KNA1,PSTLZ,A,0000,E,Postal Code
+LFA1,LIFNR,A,0000,E,Vendor Account Number
+LFA1,NAME1,A,0000,E,Name 1
+LFA1,LAND1,A,0000,E,Country Key
+LFA1,ORT01,A,0000,E,City
+LIKP,VBELN,A,0000,E,Delivery
+LIKP,LFART,A,0000,E,Delivery Type
+LIKP,KUNNR,A,0000,E,Ship-to party
+LIKP,WADAT,A,0000,E,Goods issue date
+LIPS,VBELN,A,0000,E,Delivery
+LIPS,POSNR,A,0000,E,Delivery Item
+LIPS,MATNR,A,0000,E,Material Number
+LIPS,LFIMG,A,0000,E,Actual quantity delivered
+LIPS,WERKS,A,0000,E,Plant
+MSEG,MBLNR,A,0000,E,Material Document Number
+MSEG,MJAHR,A,0000,E,Material Document Year
+MSEG,ZEILE,A,0000,E,Item in Material Document
+MSEG,BWART,A,0000,E,Movement Type
+MSEG,MATNR,A,0000,E,Material Number
+MSEG,WERKS,A,0000,E,Plant
+MSEG,LGORT,A,0000,E,Storage Location
+MSEG,MENGE,A,0000,E,Quantity
+MSEG,DMBTR,A,0000,E,Amount in Local Currency
+CSKS,KOKRS,A,0000,E,Controlling Area
+CSKS,KOSTL,A,0000,E,Cost Center
+CSKS,BUKRS,A,0000,E,Company Code
+COEP,KOKRS,A,0000,E,Controlling Area
+COEP,BELNR,A,0000,E,Document Number
+COEP,GJAHR,A,0000,E,Fiscal Year
+COEP,KSTAR,A,0000,E,Cost Element
+COEP,KOSTL,A,0000,E,Cost Center
+COEP,WRBTR,A,0000,E,Total Value in Object Currency
+PA0001,PERNR,A,0000,E,Personnel Number
+PA0001,ENDDA,A,0000,E,End Date
+PA0001,BEGDA,A,0000,E,Start Date
+PA0001,BUKRS,A,0000,E,Company Code
+PA0001,WERKS,A,0000,E,Personnel Area
+PA0001,KOSTL,A,0000,E,Cost Center
+PA0001,ORGEH,A,0000,E,Organizational Unit
+PA0001,PLANS,A,0000,E,Position
+T001W,WERKS,A,0000,E,Plant
+T001W,NAME1,A,0000,E,Name
+T001W,BUKRS,A,0000,E,Company Code
+T001W,LAND1,A,0000,E,Country Key

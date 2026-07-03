@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["MATERIAL_NUMBER","PLANT_CODE","STORAGE_LOCATION","BATCH_NUMBER"], model=get_where_subquery(ref('inventory_stock'))) }}{{ config({"severity":"Warn","tags":[]}) }}

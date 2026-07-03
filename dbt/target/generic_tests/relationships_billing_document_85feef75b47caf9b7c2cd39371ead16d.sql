@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="PAYER_CUSTOMER", field="CUSTOMER_NUMBER", model=get_where_subquery(ref('billing_documents')), to=ref('customers')) }}{{ config({"severity":"Warn","tags":[]}) }}

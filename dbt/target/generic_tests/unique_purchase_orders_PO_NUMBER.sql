@@ -1,0 +1,1 @@
+{{ test_unique(column_name="PO_NUMBER", model=get_where_subquery(ref('purchase_orders'))) }}{{ config({"severity":"Warn","tags":[]}) }}

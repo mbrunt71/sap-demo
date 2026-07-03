@@ -1,0 +1,29 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.plants
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    WERKS AS PLANT_CODE,
+    NAME1 AS PLANT_NAME,
+    LAND1 AS COUNTRY,
+    SPRAS AS LANGUAGE,
+    VKORG AS SALES_ORGANIZATION,
+    VTWEG AS DISTRIBUTION_CHANNEL,
+    SPART AS DIVISION,
+    VSTEL AS SHIPPING_POINT,
+    ADRNR AS ADDRESS_NUMBER
+FROM DEMO.SAP_ECC.T001W
+    )
+;
+
+
+
+
+  

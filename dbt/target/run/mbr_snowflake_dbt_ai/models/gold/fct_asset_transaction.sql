@@ -1,0 +1,27 @@
+
+  create or replace   view DEMO.SILVER_GOLD_DIMENSIONAL.fct_asset_transaction
+  
+  
+  
+  
+  as (
+    SELECT
+    a.ASSET_NUMBER,
+    a.ASSET_SUBNUMBER,
+    a.COMPANY_CODE,
+    a.ASSET_CLASS,
+    a.ASSET_DESCRIPTION,
+    a.COST_CENTER,
+    a.PLANT,
+    t.FISCAL_YEAR,
+    t.DEPRECIATION_AREA,
+    t.TRANSACTION_TYPE,
+    t.POSTED_AMOUNT,
+    t.CURRENCY
+FROM DEMO.SILVER_SILVER.assets a
+JOIN DEMO.SILVER_SILVER.asset_line_items t
+    ON a.COMPANY_CODE = t.COMPANY_CODE
+    AND a.ASSET_NUMBER = t.ASSET_NUMBER
+    AND a.ASSET_SUBNUMBER = t.ASSET_SUBNUMBER
+  );
+

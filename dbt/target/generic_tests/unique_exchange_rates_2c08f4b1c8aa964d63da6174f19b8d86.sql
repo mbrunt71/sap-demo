@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["EXCHANGE_RATE_TYPE","FROM_CURRENCY","TO_CURRENCY","VALID_FROM"], model=get_where_subquery(ref('exchange_rates'))) }}{{ config({"severity":"Warn","tags":[]}) }}

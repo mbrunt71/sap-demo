@@ -1,0 +1,29 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.purchase_order_schedules
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    EBELN AS PO_NUMBER,
+    EBELP AS ITEM_NUMBER,
+    ETENR AS SCHEDULE_LINE_NUMBER,
+    EINDT AS DELIVERY_DATE,
+    MENGE AS SCHEDULED_QUANTITY,
+    WEMNG AS DELIVERED_QUANTITY,
+    SLFDT AS STATISTICS_DATE,
+    BANFN AS REQUISITION_NUMBER,
+    BNFPO AS REQUISITION_ITEM
+FROM DEMO.SAP_ECC.EKET
+    )
+;
+
+
+
+
+  

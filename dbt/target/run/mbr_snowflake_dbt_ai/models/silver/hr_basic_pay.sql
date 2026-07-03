@@ -1,0 +1,29 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.hr_basic_pay
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PERNR AS PERSONNEL_NUMBER,
+    ENDDA AS END_DATE,
+    BEGDA AS START_DATE,
+    TRFAR AS PAY_SCALE_TYPE,
+    TRFGB AS PAY_SCALE_AREA,
+    TRFGR AS PAY_SCALE_GROUP,
+    TRFST AS PAY_SCALE_LEVEL,
+    ANSAL AS ANNUAL_SALARY,
+    WAESSION AS CURRENCY
+FROM DEMO.SAP_ECC.PA0008
+    )
+;
+
+
+
+
+  

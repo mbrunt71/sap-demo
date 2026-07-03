@@ -1,0 +1,1 @@
+{{ test_unique(column_name="MATERIAL_NUMBER", model=get_where_subquery(ref('materials'))) }}{{ config({"severity":"Warn","tags":[]}) }}

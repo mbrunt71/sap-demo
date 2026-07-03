@@ -1,0 +1,28 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.sales_pricing_conditions
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    KNUMV AS CONDITION_NUMBER,
+    KPOSN AS CONDITION_ITEM,
+    STUNR AS STEP_NUMBER,
+    ZAESSION AS CONDITION_COUNTER,
+    KSCHL AS CONDITION_TYPE,
+    KBETR AS CONDITION_RATE,
+    WAERS AS CURRENCY,
+    KWERT AS CONDITION_VALUE
+FROM DEMO.SAP_ECC.KONV
+    )
+;
+
+
+
+
+  

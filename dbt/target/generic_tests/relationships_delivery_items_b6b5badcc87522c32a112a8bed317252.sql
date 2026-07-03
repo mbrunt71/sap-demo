@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="MATERIAL_NUMBER", field="MATERIAL_NUMBER", model=get_where_subquery(ref('delivery_items')), to=ref('materials')) }}{{ config({"severity":"Warn","tags":[]}) }}

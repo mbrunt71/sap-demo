@@ -1,0 +1,29 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.routings
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PLNTY AS ROUTING_TYPE,
+    PLNNR AS ROUTING_GROUP,
+    PLNAL AS GROUP_COUNTER,
+    VERWE AS USAGE,
+    STATU AS STATUS,
+    LOEKZ AS DELETION_FLAG,
+    WERKS AS PLANT_CODE,
+    ERDAT AS CREATED_DATE,
+    ERNAM AS CREATED_BY
+FROM DEMO.SAP_ECC.PLKO
+    )
+;
+
+
+
+
+  

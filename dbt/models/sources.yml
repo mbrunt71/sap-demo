@@ -1,0 +1,174 @@
+version: 2
+
+sources:
+  - name: sap_ecc
+    database: DEMO
+    schema: SAP_ECC
+    tables:
+      # Sales & Distribution (SD)
+      - name: VBAK
+      - name: VBAP
+      - name: VBEP
+      - name: VBFA
+      - name: VBKD
+      - name: VBPA
+      - name: VBUK
+      - name: VBUP
+      - name: VBRK
+      - name: VBRP
+      - name: LIKP
+      - name: LIPS
+      - name: KONV
+      - name: TVAK
+      - name: TVAKT
+      - name: TVAP
+      - name: TVAPT
+      - name: TVLK
+      - name: TVLKT
+      # Materials Management (MM)
+      - name: MARA
+      - name: MAKT
+      - name: MARC
+      - name: MARD
+      - name: EKKO
+      - name: EKPO
+      - name: EKET
+      - name: EKBE
+      - name: EBAN
+      - name: EINA
+      - name: EINE
+      - name: INFO
+      - name: MKPF
+      - name: MSEG
+      - name: MAST
+      - name: MAPL
+      - name: LEIN
+      - name: T161
+      - name: T161T
+      - name: T156
+      - name: T156T
+      # Financial Accounting (FI)
+      - name: BKPF
+      - name: BSEG
+      - name: FAGLFLEXA
+      - name: BSID
+      - name: BSAD
+      - name: BSIK
+      - name: BSAK
+      - name: RBKP
+      - name: RSEG
+      # Controlling (CO)
+      - name: COBK
+      - name: COEP
+      - name: COSP
+      - name: COSS
+      - name: CSKS
+      - name: CSKT
+      - name: CSKA
+      - name: CSKU
+      - name: KEKO
+      - name: KEPH
+      - name: MLCD
+      # Production Planning (PP)
+      - name: AUFK
+      - name: AFKO
+      - name: AFPO
+      - name: AFVC
+      - name: AFVV
+      - name: RESB
+      - name: PLKO
+      - name: PLPO
+      - name: STKO
+      - name: STPO
+      - name: PLAF
+      - name: MDKP
+      - name: MDTB
+      - name: PBIM
+      - name: PBED
+      - name: CRHD
+      - name: CRTX
+      # Human Resources (HR)
+      - name: PA0000
+      - name: PA0001
+      - name: PA0002
+      - name: PA0006
+      - name: PA0007
+      - name: PA0008
+      - name: PA0014
+      - name: PA0015
+      - name: PA2001
+      - name: PA2002
+      - name: PA2006
+      - name: HRP1000
+      - name: HRP1001
+      - name: HRP1002
+      # Warehouse Management (WM)
+      - name: LTAK
+      - name: LTAP
+      - name: LTBK
+      - name: LTBP
+      - name: LAGP
+      - name: LQUA
+      # Master Data & Config
+      - name: KNA1
+      - name: KNVV
+      - name: LFA1
+      - name: LFB1
+      - name: LFM1
+      - name: T001W
+      - name: T001L
+      - name: T000
+      - name: T000T
+      - name: T300
+      - name: T300T
+      - name: TCURC
+      - name: TCURT
+      - name: TCURX
+      # Cross-functional
+      - name: ANLA
+      - name: ANEP
+      - name: SER01
+      - name: OBJK
+      - name: JEST
+      - name: TJ02
+      - name: TJ02T
+      - name: QMEL
+      - name: RLGRAP
+      - name: VTTK
+      - name: VTTP
+      - name: VTTS
+      - name: VTFA
+      - name: VFKP
+      - name: VFKN
+      # Change Documents & Admin
+      - name: CDHDR
+      - name: CDPOS
+      - name: BDCP2
+      - name: EDID4
+      - name: EDIDC
+      - name: BALHDR
+      - name: BALDAT
+      - name: DD02L
+      - name: DD02T
+      - name: DD03L
+      - name: DD03T
+      - name: USR02
+      - name: AGR_USERS
+      - name: AGR_TEXTS
+      - name: TBDLS
+      - name: TKA01
+      - name: TKT01
+      - name: T527X
+      - name: T529T
+      - name: T552T
+      - name: T554T
+      - name: T556T
+      - name: T685
+      - name: T685T
+      - name: TTDS
+      - name: TTDST
+      # Profitability Analysis (CO-PA)
+      - name: CE1XXXX
+      - name: CE2XXXX
+      # Schedule Agreement / Transport
+      - name: BSAS

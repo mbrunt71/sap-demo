@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="COMPANY_CODE", field="COMPANY_CODE", model=get_where_subquery(ref('sales_organizations')), to=ref('company_codes')) }}{{ config({"severity":"Warn","tags":[]}) }}

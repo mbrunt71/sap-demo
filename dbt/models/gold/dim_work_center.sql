@@ -1,0 +1,6 @@
+SELECT
+    WORK_CENTER_ID,
+    WORK_CENTER_NAME,
+    WORK_CENTER_CATEGORY,
+    PLANT_CODE
+FROM {{ ref('work_centers') }}

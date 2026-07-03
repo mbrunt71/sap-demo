@@ -1,0 +1,26 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.sales_order_partners
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    VBELN AS SALES_ORDER_NUMBER,
+    PARVW AS PARTNER_FUNCTION,
+    KUNNR AS CUSTOMER_NUMBER,
+    POSNR AS ITEM_NUMBER,
+    LIFNR AS VENDOR_NUMBER,
+    ADRNR AS ADDRESS_NUMBER
+FROM DEMO.SAP_ECC.VBPA
+    )
+;
+
+
+
+
+  

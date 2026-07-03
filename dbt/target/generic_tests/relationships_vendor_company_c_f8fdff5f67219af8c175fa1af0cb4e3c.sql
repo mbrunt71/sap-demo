@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="VENDOR_NUMBER", field="VENDOR_NUMBER", model=get_where_subquery(ref('vendor_company_codes')), to=ref('vendors')) }}{{ config({"severity":"Warn","tags":[]}) }}

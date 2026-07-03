@@ -1,0 +1,28 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.production_order_items
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    AUFNR AS ORDER_NUMBER,
+    POSNR AS ITEM_NUMBER,
+    MATNR AS MATERIAL_NUMBER,
+    LGORT AS STORAGE_LOCATION,
+    PSMNG AS PLANNED_QUANTITY,
+    WEMNG AS DELIVERED_QUANTITY,
+    AMEIN AS UNIT_OF_MEASURE,
+    LTRMI AS PLANNED_FINISH_DATE
+FROM DEMO.SAP_ECC.AFPO
+    )
+;
+
+
+
+
+  

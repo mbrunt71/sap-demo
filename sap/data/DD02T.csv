@@ -1,0 +1,161 @@
+TABNAME,AS4LOCAL,AS4VERS,DDLANGUAGE,DDTEXT
+AFKO,A,0000,E,Order header data PP orders
+AFPO,A,0000,E,Order item data PP orders
+AFVC,A,0000,E,Order operation data
+AFVV,A,0000,E,Order operation quantities and dates
+AGR_TEXTS,A,0000,E,Role texts
+AGR_USERS,A,0000,E,Assignment of roles to users
+ANEP,A,0000,E,Asset line items
+ANLA,A,0000,E,Asset master record segment
+AUFK,A,0000,E,Order master data
+BALDAT,A,0000,E,Application log data
+BALHDR,A,0000,E,Application log header data
+BDCP2,A,0000,E,Change pointer
+BKPF,A,0000,E,Accounting document header
+BSAD,A,0000,E,Accounting secondary index for customers (cleared items)
+BSAK,A,0000,E,Accounting secondary index for vendors (cleared items)
+BSAS,A,0000,E,Accounting secondary index for G/L accounts (cleared items)
+BSEG,A,0000,E,Accounting document segment
+BSID,A,0000,E,Accounting secondary index for customers (open items)
+BSIK,A,0000,E,Accounting secondary index for vendors (open items)
+CDHDR,A,0000,E,Change document header
+CDPOS,A,0000,E,Change document items
+CE1XXXX,A,0000,E,Profitability analysis actual line items
+CE2XXXX,A,0000,E,Profitability analysis plan line items
+COBK,A,0000,E,CO object: document header
+COEP,A,0000,E,CO object: line items (by period)
+COSP,A,0000,E,CO object: cost totals for external postings
+COSS,A,0000,E,CO object: cost totals for internal postings
+CRHD,A,0000,E,Work center header
+CRTX,A,0000,E,Work center text
+CSKA,A,0000,E,Cost elements (data dependent on chart of accounts)
+CSKB,A,0000,E,Cost elements (data dependent on controlling area)
+CSKS,A,0000,E,Cost center master data
+CSKT,A,0000,E,Cost center texts
+CSKU,A,0000,E,Cost element texts
+DD01L,A,0000,E,Domains
+DD02L,A,0000,E,SAP tables
+DD02T,A,0000,E,SAP table texts
+DD03L,A,0000,E,Table fields
+DD03T,A,0000,E,Table field texts
+DD04L,A,0000,E,Data elements
+DD04T,A,0000,E,Data element texts
+DD07L,A,0000,E,Values for the domains (value ranges)
+EBAN,A,0000,E,Purchase requisition
+EDID4,A,0000,E,IDoc data records
+EDIDC,A,0000,E,IDoc control record
+EINA,A,0000,E,Purchasing info record - general data
+EINE,A,0000,E,Purchasing info record - purchasing organization data
+EKBE,A,0000,E,History per purchasing document
+EKET,A,0000,E,Scheduling agreement schedule lines
+EKKO,A,0000,E,Purchasing document header
+EKPO,A,0000,E,Purchasing document item
+FAGLFLEXA,A,0000,E,Flexible general ledger: actual line items
+HRP1000,A,0000,E,HR object infotype 1000
+HRP1001,A,0000,E,HR object infotype 1001 (relationships)
+HRP1002,A,0000,E,HR object infotype 1002 (description)
+INFO,A,0000,E,Purchasing info record
+JEST,A,0000,E,Individual object status
+KEKO,A,0000,E,Product costing - header data
+KEPH,A,0000,E,Product costing - cost components for cost estimates
+KNA1,A,0000,E,General data in customer master
+KNVV,A,0000,E,Customer master sales data
+KONV,A,0000,E,Conditions (transaction data)
+LAGP,A,0000,E,Storage bins
+LEIN,A,0000,E,Storage unit header records
+LFA1,A,0000,E,Vendor master (general section)
+LFB1,A,0000,E,Vendor master (company code)
+LFM1,A,0000,E,Vendor master (purchasing organization)
+LIKP,A,0000,E,SD document: delivery header data
+LIPS,A,0000,E,SD document: delivery item data
+LQUA,A,0000,E,Quants
+LTAK,A,0000,E,WM transfer order header
+LTAP,A,0000,E,WM transfer order item
+LTBK,A,0000,E,WM transfer requirement header
+LTBP,A,0000,E,WM transfer requirement item
+MAKT,A,0000,E,Material descriptions
+MAPL,A,0000,E,Assignment of task lists to materials
+MARA,A,0000,E,General material data
+MARC,A,0000,E,Plant data for material
+MARD,A,0000,E,Storage location data for material
+MAST,A,0000,E,Material to BOM link
+MDKP,A,0000,E,MRP document header data
+MDTB,A,0000,E,MRP table structure
+MKPF,A,0000,E,Header material document
+MLCD,A,0000,E,Material ledger: summarization record currency and valuation
+MSEG,A,0000,E,Document segment: material
+OBJK,A,0000,E,Plant maintenance object list entry
+PA0000,A,0000,E,HR master record: infotype 0000 (actions)
+PA0001,A,0000,E,HR master record: infotype 0001 (org. assignment)
+PA0002,A,0000,E,HR master record: infotype 0002 (personal data)
+PA0006,A,0000,E,HR master record: infotype 0006 (addresses)
+PA0007,A,0000,E,HR master record: infotype 0007 (planned working time)
+PA0008,A,0000,E,HR master record: infotype 0008 (basic pay)
+PA0014,A,0000,E,HR master record: infotype 0014 (recurring payments/deductions)
+PA0015,A,0000,E,HR master record: infotype 0015 (additional payments)
+PA2001,A,0000,E,HR time record: infotype 2001 (absences)
+PA2002,A,0000,E,HR time record: infotype 2002 (attendances)
+PA2006,A,0000,E,HR time record: infotype 2006 (absence quotas)
+PBED,A,0000,E,Independent requirements data
+PBIM,A,0000,E,Independent requirements by material
+PLAF,A,0000,E,Planned order
+PLKO,A,0000,E,Task list header
+PLPO,A,0000,E,Task list operation/activity
+QMEL,A,0000,E,Quality notification
+RBKP,A,0000,E,Document header: invoice receipt
+RESB,A,0000,E,Reservation/dependent requirements
+RLGRAP,A,0000,E,WM: inventory records per storage bin
+RSEG,A,0000,E,Document item: incoming invoice
+SER01,A,0000,E,Document header for serial numbers (delivery)
+STKO,A,0000,E,BOM header
+STPO,A,0000,E,BOM item
+T000,A,0000,E,Clients
+T000T,A,0000,E,Client texts
+T001L,A,0000,E,Storage locations
+T001W,A,0000,E,Plants/branches
+T156,A,0000,E,Movement type
+T156T,A,0000,E,Movement type text
+T161,A,0000,E,Purchasing document types
+T161T,A,0000,E,Purchasing document type texts
+T300,A,0000,E,WM warehouse numbers
+T300T,A,0000,E,WM warehouse number texts
+T527X,A,0000,E,Organizational units texts
+T529T,A,0000,E,Employee group texts
+T552T,A,0000,E,Work schedule texts
+T554T,A,0000,E,Absence type texts
+T556T,A,0000,E,Attendance/absence type texts
+T685,A,0000,E,Condition types
+T685T,A,0000,E,Condition type texts
+TBDLS,A,0000,E,Logical systems
+TCURC,A,0000,E,Currency codes
+TCURT,A,0000,E,Currency code names
+TCURX,A,0000,E,Decimal places in currencies
+TJ02,A,0000,E,System status
+TJ02T,A,0000,E,System status texts
+TKA01,A,0000,E,Controlling areas
+TKT01,A,0000,E,Controlling area texts
+TTDS,A,0000,E,Shipment types
+TTDST,A,0000,E,Shipment type texts
+TVAK,A,0000,E,Sales document types
+TVAKT,A,0000,E,Sales document type texts
+TVAP,A,0000,E,Sales document item categories
+TVAPT,A,0000,E,Sales document item category texts
+TVLK,A,0000,E,Delivery types
+TVLKT,A,0000,E,Delivery type texts
+USR02,A,0000,E,Logon data (kernel-side use)
+VBAK,A,0000,E,Sales document: header data
+VBAP,A,0000,E,Sales document: item data
+VBEP,A,0000,E,Sales document: schedule line data
+VBFA,A,0000,E,Sales document flow
+VBKD,A,0000,E,Sales document: business data
+VBPA,A,0000,E,Sales document: partner
+VBRK,A,0000,E,Billing document: header data
+VBRP,A,0000,E,Billing document: item data
+VBUK,A,0000,E,Sales document: header status and administrative data
+VBUP,A,0000,E,Sales document: item status
+VFKN,A,0000,E,Shipment costs: item
+VFKP,A,0000,E,Shipment costs: header
+VTFA,A,0000,E,Shipment document flow
+VTTK,A,0000,E,Shipment header
+VTTP,A,0000,E,Shipment item
+VTTS,A,0000,E,Shipment stage

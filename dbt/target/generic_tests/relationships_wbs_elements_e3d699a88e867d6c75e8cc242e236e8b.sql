@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="PROJECT_NUMBER", field="PROJECT_NUMBER", model=get_where_subquery(ref('wbs_elements')), to=ref('projects')) }}{{ config({"severity":"Warn","tags":[]}) }}

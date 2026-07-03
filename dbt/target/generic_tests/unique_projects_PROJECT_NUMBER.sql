@@ -1,0 +1,1 @@
+{{ test_unique(column_name="PROJECT_NUMBER", model=get_where_subquery(ref('projects'))) }}{{ config({"severity":"Warn","tags":[]}) }}

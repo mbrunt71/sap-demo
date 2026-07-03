@@ -1,0 +1,57 @@
+ROLLNAME,AS4LOCAL,AS4VERS,DDLANGUAGE,DDTEXT,REPTEXT,SCRTEXT_S,SCRTEXT_M,SCRTEXT_L
+MANDT,A,0000,E,Client,Clnt,Clnt,Client,Client
+BUKRS,A,0000,E,Company Code,CoCd,CoCd,Company Code,Company Code
+WERKS,A,0000,E,Plant,Plnt,Plnt,Plant,Plant
+LGORT,A,0000,E,Storage Location,SLoc,SLoc,Stor. Loc.,Storage Location
+MATNR,A,0000,E,Material Number,Material,Matl,Material,Material Number
+KUNNR,A,0000,E,Customer Number,Customer,Cust.,Customer,Customer Number
+LIFNR,A,0000,E,Vendor Account Number,Vendor,Vendor,Vendor,Vendor Account Number
+VBELN,A,0000,E,Sales and Distribution Document Number,SD Doc.,SD Doc,Sales Doc.,Sales and Distribution Document Number
+POSNR,A,0000,E,Item Number,Item,Item,Item,Item Number of the SD Document
+EBELN,A,0000,E,Purchasing Document Number,PO Number,PO No.,Purch.Doc.,Purchasing Document Number
+EBELP,A,0000,E,Item Number of Purchasing Document,PO Item,Item,PO Item,Item Number of Purchasing Document
+AUFNR,A,0000,E,Order Number,Order,Order,Order,Order Number
+KOSTL,A,0000,E,Cost Center,Cost Ctr,CCtr,Cost Ctr,Cost Center
+KOKRS,A,0000,E,Controlling Area,CO Area,CArea,CO Area,Controlling Area
+KSTAR,A,0000,E,Cost Element,Cost Elem.,CElem,Cost Elem.,Cost Element
+BELNR,A,0000,E,Accounting Document Number,Doc.Number,DocNo,Doc.Number,Accounting Document Number
+GJAHR,A,0000,E,Fiscal Year,Year,Year,Fisc.Year,Fiscal Year
+BUZEI,A,0000,E,Number of Line Item,Item,Item,Line Item,Number of Line Item Within Accounting Document
+PERNR,A,0000,E,Personnel Number,Pers.No.,PersNo,Pers.No.,Personnel Number
+BEGDA,A,0000,E,Start Date,Start,Start,Start Date,Start Date
+ENDDA,A,0000,E,End Date,End,End,End Date,End Date
+WAERS,A,0000,E,Currency Key,Crcy,Crcy,Currency,Currency Key
+WRBTR,A,0000,E,Amount in Document Currency,Amount,Amount,Amount,Amount in Document Currency
+MENGE,A,0000,E,Quantity,Quantity,Qty,Quantity,Quantity
+MEINS,A,0000,E,Base Unit of Measure,BUn,BUn,Base Unit,Base Unit of Measure
+SPRAS,A,0000,E,Language Key,Lang.,Lang,Language,Language Key
+DATUM,A,0000,E,Date,Date,Date,Date,Date
+TABNAME,A,0000,E,Table Name,Table,Table,Table Name,Table Name
+FIELDNAME,A,0000,E,Field Name,Field,Field,Field Name,Field Name
+DOMNAME,A,0000,E,Domain Name,Domain,Domain,Domain,Domain Name
+ROLLNAME,A,0000,E,Data Element Name,Data Elem.,DElem,Data Elem.,Data Element (Semantic Domain)
+AS4LOCAL,A,0000,E,Activation State,State,State,Act.State,Activation State of Repository Object
+AS4VERS,A,0000,E,Version Number,Version,Vers.,Version,Version Number of Object
+DDLANGUAGE,A,0000,E,DDIC Language Key,Lang.,Lang,Language,Language Key of DDIC Object
+LGNUM,A,0000,E,Warehouse Number,WhN,WhN,Whs.Number,Warehouse Number / Warehouse Complex
+BWART,A,0000,E,Movement Type,MvT,MvT,Mvt Type,Movement Type (Inventory Management)
+AUART,A,0000,E,Sales Document Type,STyp,STyp,Sales Type,Sales Document Type
+PSTYV,A,0000,E,Sales Item Category,ItCa,ItCa,Item Cat.,Sales Document Item Category
+LFART,A,0000,E,Delivery Type,DlTy,DlTy,Del. Type,Delivery Type
+BSART,A,0000,E,Purchasing Document Type,PTyp,PTyp,Purch.Type,Order Type (Purchasing)
+STLNR,A,0000,E,Bill of Material Number,BOM,BOM,BOM Number,Bill of Material
+PLNTY,A,0000,E,Task List Type,TLTy,TLTy,TL Type,Task List Type
+PLNNR,A,0000,E,Key for Task List Group,TL Grp,TL Grp,Task List,Key for Task List Group
+OBJNR,A,0000,E,Object Number,Object,Object,Object No.,Object Number
+ISTAT,A,0000,E,Object Status,Status,Status,Obj.Status,Object Status
+TKNUM,A,0000,E,Shipment Number,Shipment,Shpmt,Shipment,Shipment Number
+QMNUM,A,0000,E,Notification Number,Notif.,Notif,Notification,Notification Number
+BANFN,A,0000,E,Purchase Requisition Number,PReq,PReq,Purch.Req.,Purchase Requisition Number
+MBLNR,A,0000,E,Material Document Number,MatDoc,MatDoc,Mat.Doc.,Number of Material Document
+DOCNUM,A,0000,E,IDoc Number,IDoc,IDoc,IDoc No.,IDoc Number
+INFNR,A,0000,E,Purchasing Info Record Number,Info Rec.,InfoRec,Info Record,Number of Purchasing Info Record
+EKORG,A,0000,E,Purchasing Organization,POrg,POrg,Purch.Org.,Purchasing Organization
+RLDNR,A,0000,E,Ledger in General Ledger,Ledger,Ldgr,Ledger,Ledger in General Ledger Accounting
+ANLN1,A,0000,E,Main Asset Number,Asset,Asset,Main No.,Main Asset Number
+DTNUM,A,0000,E,MRP Document Number,MRP Doc,MRP,MRP Doc.,Document Number for MRP
+SDABW,A,0000,E,Shipment Type,ShpTy,ShpTy,Shpmt Type,Special Processing Indicator

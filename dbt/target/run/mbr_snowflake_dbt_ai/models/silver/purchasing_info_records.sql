@@ -1,0 +1,31 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.purchasing_info_records
+    
+    
+    
+    as (SELECT
+    g.MANDT AS CLIENT,
+    g.INFNR AS INFO_RECORD_NUMBER,
+    g.MATNR AS MATERIAL_NUMBER,
+    g.LIFNR AS VENDOR_NUMBER,
+    g.LOEKZ AS DELETION_INDICATOR,
+    o.EKORG AS PURCHASING_ORGANIZATION,
+    o.WERKS AS PLANT,
+    o.NETPR AS NET_PRICE,
+    o.WAERS AS CURRENCY,
+    o.PEINH AS PRICE_UNIT
+FROM DEMO.SAP_ECC.EINA g
+LEFT JOIN DEMO.SAP_ECC.EINE o
+    ON g.MANDT = o.MANDT AND g.INFNR = o.INFNR
+    )
+;
+
+
+
+
+  

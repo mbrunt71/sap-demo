@@ -1,0 +1,28 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.warehouse_quants
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    LGNUM AS WAREHOUSE_NUMBER,
+    LQNUM AS QUANT_NUMBER,
+    MATNR AS MATERIAL_NUMBER,
+    WERKS AS PLANT,
+    LGTYP AS STORAGE_TYPE,
+    LGPLA AS STORAGE_BIN,
+    GESME AS AVAILABLE_QUANTITY,
+    MEINS AS UNIT_OF_MEASURE
+FROM DEMO.SAP_ECC.LQUA
+    )
+;
+
+
+
+
+  

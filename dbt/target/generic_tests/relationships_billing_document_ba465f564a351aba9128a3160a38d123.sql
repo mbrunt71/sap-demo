@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="BILLING_DOCUMENT_NUMBER", field="BILLING_DOCUMENT_NUMBER", model=get_where_subquery(ref('billing_document_items')), to=ref('billing_documents')) }}{{ config({"severity":"Warn","tags":[]}) }}

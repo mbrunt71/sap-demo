@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["ROUTING_TYPE","ROUTING_GROUP","GROUP_COUNTER","OPERATION_NUMBER"], model=get_where_subquery(ref('routing_operations'))) }}{{ config({"severity":"Warn","tags":[]}) }}

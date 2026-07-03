@@ -1,0 +1,6 @@
+MANDT,PERSG,SPRAS,PTEXT
+100,1,E,Active
+100,2,E,Retiree
+100,3,E,Extern
+100,4,E,Student
+100,5,E,Trainee

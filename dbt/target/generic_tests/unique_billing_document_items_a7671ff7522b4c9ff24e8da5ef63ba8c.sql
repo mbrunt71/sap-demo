@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["BILLING_DOCUMENT_NUMBER","ITEM_NUMBER"], model=get_where_subquery(ref('billing_document_items'))) }}{{ config({"severity":"Warn","tags":[]}) }}

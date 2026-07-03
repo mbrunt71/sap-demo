@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["BOM_NUMBER","BOM_ALTERNATIVE"], model=get_where_subquery(ref('bill_of_materials'))) }}{{ config({"severity":"Warn","tags":[]}) }}

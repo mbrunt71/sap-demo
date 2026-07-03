@@ -1,0 +1,27 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.hr_personal_data
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PERNR AS PERSONNEL_NUMBER,
+    ENDDA AS END_DATE,
+    BEGDA AS START_DATE,
+    NACHN AS LAST_NAME,
+    VORNA AS FIRST_NAME,
+    GBDAT AS DATE_OF_BIRTH,
+    GESCH AS GENDER
+FROM DEMO.SAP_ECC.PA0002
+    )
+;
+
+
+
+
+  

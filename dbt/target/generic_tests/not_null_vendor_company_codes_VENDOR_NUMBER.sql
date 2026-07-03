@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="VENDOR_NUMBER", model=get_where_subquery(ref('vendor_company_codes'))) }}{{ config({"severity":"Warn","tags":[]}) }}

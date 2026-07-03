@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["PO_NUMBER","ITEM_NUMBER","SEQUENTIAL_NUMBER"], model=get_where_subquery(ref('purchase_order_history'))) }}{{ config({"severity":"Warn","tags":[]}) }}

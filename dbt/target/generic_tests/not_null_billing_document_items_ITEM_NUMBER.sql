@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="ITEM_NUMBER", model=get_where_subquery(ref('billing_document_items'))) }}{{ config({"severity":"Warn","tags":[]}) }}

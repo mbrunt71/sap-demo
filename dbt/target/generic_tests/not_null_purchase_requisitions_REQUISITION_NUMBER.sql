@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="REQUISITION_NUMBER", model=get_where_subquery(ref('purchase_requisitions'))) }}{{ config({"severity":"Warn","tags":[]}) }}

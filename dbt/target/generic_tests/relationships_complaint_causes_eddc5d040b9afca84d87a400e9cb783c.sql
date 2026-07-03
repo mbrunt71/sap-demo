@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="COMPLAINT_NUMBER", field="COMPLAINT_NUMBER", model=get_where_subquery(ref('complaint_causes')), to=ref('complaints')) }}{{ config({"severity":"Warn","tags":[]}) }}

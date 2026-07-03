@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["CUSTOMER_NUMBER","SALES_ORGANIZATION","DISTRIBUTION_CHANNEL","DIVISION","PARTNER_FUNCTION"], model=get_where_subquery(ref('customer_partners'))) }}{{ config({"severity":"Warn","tags":[]}) }}

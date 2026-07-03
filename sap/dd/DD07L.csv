@@ -1,0 +1,88 @@
+DOMNAME,AS4LOCAL,AS4VERS,VALPOS,DDLANGUAGE,DOMVALUE_L,DDTEXT
+AS4LOCAL,A,0000,0001,E,A,Active
+AS4LOCAL,A,0000,0002,E,M,Modified
+AS4LOCAL,A,0000,0003,E,I,Inactive (revised)
+AS4LOCAL,A,0000,0004,E,R,Revised (not yet activated)
+BSTYP,A,0000,0001,E,F,Purchase order
+BSTYP,A,0000,0002,E,A,Request for quotation
+BSTYP,A,0000,0003,E,K,Contract
+BSTYP,A,0000,0004,E,L,Scheduling agreement
+BSTYP,A,0000,0005,E,B,Purchase requisition
+BWART,A,0000,0001,E,101,Goods receipt for purchase order
+BWART,A,0000,0002,E,102,Goods receipt reversal
+BWART,A,0000,0003,E,103,Goods receipt into blocked stock
+BWART,A,0000,0004,E,201,Goods issue for cost center
+BWART,A,0000,0005,E,261,Goods issue for production order
+BWART,A,0000,0006,E,301,Transfer posting plant to plant
+BWART,A,0000,0007,E,311,Transfer posting storage to storage
+BWART,A,0000,0008,E,501,Goods receipt without purchase order
+BWART,A,0000,0009,E,601,Goods issue delivery
+BWART,A,0000,0010,E,651,Returns from customer
+AUART,A,0000,0001,E,OR,Standard order
+AUART,A,0000,0002,E,SO,Rush order
+AUART,A,0000,0003,E,RE,Returns
+AUART,A,0000,0004,E,CR,Credit memo request
+AUART,A,0000,0005,E,DR,Debit memo request
+AUART,A,0000,0006,E,FD,Free delivery
+AUART,A,0000,0007,E,KA,Consignment fill-up
+AUART,A,0000,0008,E,KB,Consignment pick-up
+AUART,A,0000,0009,E,KE,Consignment issue
+AUART,A,0000,0010,E,KR,Consignment returns
+PSTYV,A,0000,0001,E,TAN,Standard item
+PSTYV,A,0000,0002,E,TANN,Free of charge item
+PSTYV,A,0000,0003,E,TAX,Third-party item
+PSTYV,A,0000,0004,E,KLN,Sub-item
+PSTYV,A,0000,0005,E,AGN,Inquiry item
+LFART,A,0000,0001,E,LF,Normal delivery
+LFART,A,0000,0002,E,NL,Replenishment delivery
+LFART,A,0000,0003,E,EL,Returns delivery
+LFART,A,0000,0004,E,LO,Delivery without reference
+BSART,A,0000,0001,E,NB,Standard purchase order
+BSART,A,0000,0002,E,FO,Framework order
+BSART,A,0000,0003,E,UB,Stock transport order
+BSART,A,0000,0004,E,MK,Scheduling agreement
+BSART,A,0000,0005,E,WK,Value contract
+PLNTY,A,0000,0001,E,N,Standard routing
+PLNTY,A,0000,0002,E,R,Reference operation set
+PLNTY,A,0000,0003,E,S,Inspection plan
+PLNTY,A,0000,0004,E,E,Equipment task list
+PLNTY,A,0000,0005,E,A,Routing for general maintenance
+KOART,A,0000,0001,E,S,G/L account
+KOART,A,0000,0002,E,D,Customer
+KOART,A,0000,0003,E,K,Vendor
+KOART,A,0000,0004,E,M,Material
+KOART,A,0000,0005,E,A,Asset
+SHKZG,A,0000,0001,E,S,Debit
+SHKZG,A,0000,0002,E,H,Credit
+SPRAS,A,0000,0001,E,E,English
+SPRAS,A,0000,0002,E,D,German
+SPRAS,A,0000,0003,E,F,French
+SPRAS,A,0000,0004,E,I,Italian
+SPRAS,A,0000,0005,E,S,Spanish
+SPRAS,A,0000,0006,E,N,Dutch
+SPRAS,A,0000,0007,E,P,Portuguese
+SPRAS,A,0000,0008,E,J,Japanese
+SPRAS,A,0000,0009,E,K,Korean
+SPRAS,A,0000,0010,E,1,Chinese
+SDABW,A,0000,0001,E,0001,Individual transport
+SDABW,A,0000,0002,E,0002,Collective transport
+SDABW,A,0000,0003,E,0003,Inbound shipment
+SDABW,A,0000,0004,E,0004,Outbound shipment
+MTART,A,0000,0001,E,FERT,Finished product
+MTART,A,0000,0002,E,HALB,Semifinished product
+MTART,A,0000,0003,E,ROH,Raw material
+MTART,A,0000,0004,E,HIBE,Operating supplies
+MTART,A,0000,0005,E,ERSA,Spare parts
+MTART,A,0000,0006,E,VERP,Packaging material
+MTART,A,0000,0007,E,DIEN,Service
+MTART,A,0000,0008,E,NLAG,Non-stock material
+BESKZ,A,0000,0001,E,E,In-house production
+BESKZ,A,0000,0002,E,F,External procurement
+BESKZ,A,0000,0003,E,X,Both procurement types
+DISMM,A,0000,0001,E,ND,No planning
+DISMM,A,0000,0002,E,VB,Reorder point planning
+DISMM,A,0000,0003,E,VM,Automatic reorder point
+DISMM,A,0000,0004,E,VV,Forecast-based planning
+DISMM,A,0000,0005,E,PD,MRP
+DISMM,A,0000,0006,E,V1,MPS with manual lot size
+DISMM,A,0000,0007,E,V2,MPS with automatic lot size

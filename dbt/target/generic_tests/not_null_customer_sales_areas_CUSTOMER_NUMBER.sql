@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="CUSTOMER_NUMBER", model=get_where_subquery(ref('customer_sales_areas'))) }}{{ config({"severity":"Warn","tags":[]}) }}

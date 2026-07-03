@@ -1,0 +1,10 @@
+mbr_snowflake_dbt_ai:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      role: ACCOUNTADMIN
+      database: DEMO
+      warehouse: COMPUTE_WH
+      schema: SILVER
+      threads: 8

@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["SALES_ORDER_NUMBER","PARTNER_FUNCTION","ITEM_NUMBER"], model=get_where_subquery(ref('sales_order_partners'))) }}{{ config({"severity":"Warn","tags":[]}) }}

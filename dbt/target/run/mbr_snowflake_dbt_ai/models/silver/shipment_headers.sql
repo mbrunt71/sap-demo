@@ -1,0 +1,25 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.shipment_headers
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    TKNUM AS SHIPMENT_NUMBER,
+    SDABW AS SPECIAL_PROCESSING,
+    VSART AS SHIPPING_TYPE,
+    TDLNR AS FORWARDING_AGENT,
+    DESSION AS SHIPMENT_DATE
+FROM DEMO.SAP_ECC.VTTK
+    )
+;
+
+
+
+
+  

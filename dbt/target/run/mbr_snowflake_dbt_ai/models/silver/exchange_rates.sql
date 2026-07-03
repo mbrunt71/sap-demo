@@ -1,0 +1,27 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER.exchange_rates
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    KURST AS EXCHANGE_RATE_TYPE,
+    FCURR AS FROM_CURRENCY,
+    TCURR AS TO_CURRENCY,
+    GDATU AS VALID_FROM,
+    UKURS AS EXCHANGE_RATE,
+    FFACT AS FROM_FACTOR,
+    TFACT AS TO_FACTOR
+FROM DEMO.SAP_ECC.TCURR
+    )
+;
+
+
+
+
+  

@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="PLANT_CODE", model=get_where_subquery(ref('plants'))) }}{{ config({"severity":"Warn","tags":[]}) }}

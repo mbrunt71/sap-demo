@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="PO_NUMBER", field="PO_NUMBER", model=get_where_subquery(ref('purchase_order_items')), to=ref('purchase_orders')) }}{{ config({"severity":"Warn","tags":[]}) }}

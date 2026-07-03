@@ -1,0 +1,31 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER.wbs_elements
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PSPNR AS WBS_ELEMENT,
+    POSID AS WBS_ID,
+    POST1 AS DESCRIPTION,
+    OBJNR AS OBJECT_NUMBER,
+    PSPHI AS PROJECT_NUMBER,
+    STUFE AS WBS_LEVEL,
+    VERNR AS RESPONSIBLE_PERSON,
+    ERDAT AS CREATED_DATE,
+    ERNAM AS CREATED_BY,
+    USR00 AS USER_FIELD_1,
+    USR01 AS USER_FIELD_2
+FROM DEMO.SAP_ECC.PRPS
+    )
+;
+
+
+
+
+  

@@ -1,0 +1,1 @@
+{{ test_relationships(column_name="ORDER_NUMBER", field="ORDER_NUMBER", model=get_where_subquery(ref('production_order_items')), to=ref('production_orders')) }}{{ config({"severity":"Warn","tags":[]}) }}

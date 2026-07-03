@@ -1,0 +1,26 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.hr_actions
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PERNR AS PERSONNEL_NUMBER,
+    ENDDA AS END_DATE,
+    BEGDA AS START_DATE,
+    MASSN AS ACTION_TYPE,
+    MASSG AS ACTION_REASON,
+    STAT2 AS EMPLOYMENT_STATUS
+FROM DEMO.SAP_ECC.PA0000
+    )
+;
+
+
+
+
+  

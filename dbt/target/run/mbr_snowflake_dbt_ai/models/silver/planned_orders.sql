@@ -1,0 +1,27 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.planned_orders
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    PLNUM AS PLANNED_ORDER_NUMBER,
+    MATNR AS MATERIAL_NUMBER,
+    WERKS AS PLANT,
+    GESSION AS PLANNED_QUANTITY,
+    MEINS AS UNIT_OF_MEASURE,
+    PEDTR AS PLANNED_FINISH_DATE,
+    PESSION AS PLANNED_START_DATE
+FROM DEMO.SAP_ECC.PLAF
+    )
+;
+
+
+
+
+  

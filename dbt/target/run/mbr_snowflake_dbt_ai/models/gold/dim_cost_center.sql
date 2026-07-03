@@ -1,0 +1,18 @@
+
+  create or replace   view DEMO.SILVER_GOLD_DIMENSIONAL.dim_cost_center
+  
+  
+  
+  
+  as (
+    SELECT
+    CONTROLLING_AREA,
+    COST_CENTER,
+    COST_CENTER_NAME,
+    COST_CENTER_DESCRIPTION,
+    COMPANY_CODE,
+    COST_CENTER_CATEGORY,
+    VALID_TO
+FROM DEMO.SILVER_SILVER.cost_centers
+  );
+

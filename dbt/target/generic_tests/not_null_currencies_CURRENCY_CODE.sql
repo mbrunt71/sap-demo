@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="CURRENCY_CODE", model=get_where_subquery(ref('currencies'))) }}{{ config({"severity":"Warn","tags":[]}) }}

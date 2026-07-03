@@ -1,0 +1,28 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER.customer_partners
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    KUNNR AS CUSTOMER_NUMBER,
+    VKORG AS SALES_ORGANIZATION,
+    VTWEG AS DISTRIBUTION_CHANNEL,
+    SPART AS DIVISION,
+    PARVW AS PARTNER_FUNCTION,
+    KUNN2 AS PARTNER_CUSTOMER_NUMBER,
+    LIFNR AS VENDOR_NUMBER,
+    DEFPA AS DEFAULT_PARTNER
+FROM DEMO.SAP_ECC.KNVP
+    )
+;
+
+
+
+
+  

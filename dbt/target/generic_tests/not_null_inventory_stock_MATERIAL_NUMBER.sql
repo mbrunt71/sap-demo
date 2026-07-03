@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="MATERIAL_NUMBER", model=get_where_subquery(ref('inventory_stock'))) }}{{ config({"severity":"Warn","tags":[]}) }}

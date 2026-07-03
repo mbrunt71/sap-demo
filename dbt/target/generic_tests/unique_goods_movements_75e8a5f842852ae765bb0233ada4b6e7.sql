@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["DOCUMENT_NUMBER","FISCAL_YEAR","ITEM_NUMBER"], model=get_where_subquery(ref('goods_movements'))) }}{{ config({"severity":"Warn","tags":[]}) }}

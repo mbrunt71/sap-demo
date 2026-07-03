@@ -1,0 +1,29 @@
+
+  
+    
+
+
+
+create or replace transient  table DEMO.SILVER_SILVER.asset_line_items
+    
+    
+    
+    as (SELECT
+    MANDT AS CLIENT,
+    BUKRS AS COMPANY_CODE,
+    ANLN1 AS ASSET_NUMBER,
+    ANLN2 AS ASSET_SUBNUMBER,
+    GJAHR AS FISCAL_YEAR,
+    LNRAN AS DOCUMENT_LINE,
+    AFABE AS DEPRECIATION_AREA,
+    BWASL AS TRANSACTION_TYPE,
+    ANBTR AS POSTED_AMOUNT,
+    WAERS AS CURRENCY
+FROM DEMO.SAP_ECC.ANEP
+    )
+;
+
+
+
+
+  

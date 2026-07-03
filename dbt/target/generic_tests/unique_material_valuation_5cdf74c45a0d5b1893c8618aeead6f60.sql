@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["MATERIAL_NUMBER","VALUATION_AREA","VALUATION_TYPE"], model=get_where_subquery(ref('material_valuation'))) }}{{ config({"severity":"Warn","tags":[]}) }}

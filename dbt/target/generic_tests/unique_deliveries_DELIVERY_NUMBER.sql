@@ -1,0 +1,1 @@
+{{ test_unique(column_name="DELIVERY_NUMBER", model=get_where_subquery(ref('deliveries'))) }}{{ config({"severity":"Warn","tags":[]}) }}

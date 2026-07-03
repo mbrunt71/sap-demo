@@ -1,0 +1,1 @@
+{{ test_not_null(column_name="ORDER_NUMBER", model=get_where_subquery(ref('production_order_items'))) }}{{ config({"severity":"Warn","tags":[]}) }}

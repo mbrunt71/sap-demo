@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["PRECEDING_DOC_NUMBER","PRECEDING_ITEM_NUMBER","SUBSEQUENT_DOC_NUMBER","SUBSEQUENT_ITEM_NUMBER","SUBSEQUENT_DOC_CATEGORY"], model=get_where_subquery(ref('document_flow'))) }}{{ config({"severity":"Warn","tags":[]}) }}

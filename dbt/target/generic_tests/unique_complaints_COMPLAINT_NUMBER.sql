@@ -1,0 +1,1 @@
+{{ test_unique(column_name="COMPLAINT_NUMBER", model=get_where_subquery(ref('complaints'))) }}{{ config({"severity":"Warn","tags":[]}) }}

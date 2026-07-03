@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["PO_NUMBER","ITEM_NUMBER","SCHEDULE_LINE_NUMBER"], model=get_where_subquery(ref('purchase_order_schedules'))) }}{{ config({"severity":"Warn","tags":[]}) }}

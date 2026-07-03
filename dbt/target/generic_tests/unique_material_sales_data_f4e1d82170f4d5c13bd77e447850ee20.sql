@@ -1,0 +1,1 @@
+{{ test_unique(combination_of_columns=["MATERIAL_NUMBER","SALES_ORGANIZATION","DISTRIBUTION_CHANNEL"], model=get_where_subquery(ref('material_sales_data'))) }}{{ config({"severity":"Warn","tags":[]}) }}

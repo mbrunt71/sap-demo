@@ -1,0 +1,10 @@
+SELECT
+    c.MANDT AS CLIENT,
+    c.KTOPL AS CHART_OF_ACCOUNTS,
+    c.KSTAR AS COST_ELEMENT,
+    t.KTEXT AS COST_ELEMENT_NAME,
+    t.LTEXT AS COST_ELEMENT_DESCRIPTION
+FROM {{ source('sap_ecc', 'CSKA') }} c
+LEFT JOIN {{ source('sap_ecc', 'CSKU') }} t
+    ON c.MANDT = t.MANDT AND c.KTOPL = t.KTOPL AND c.KSTAR = t.KSTAR
+    AND t.SPRAS = 'E'
