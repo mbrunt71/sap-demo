@@ -23,7 +23,7 @@ CREATE OR REPLACE STAGE SAP.SAP_ECC.SAP_DATA_STAGE
     FILE_FORMAT = SAP.SAP_ECC.SAP_CSV_FORMAT;
 
 COPY FILES INTO @SAP.SAP_ECC.SAP_DATA_STAGE
-    FROM 'snow://workspace/USER$.PUBLIC."mbr_snowflake_dbt_ai"/versions/live/sap/data/'
+    FROM 'snow://workspace/USER$.PUBLIC."sap-demo"/versions/live/sap/data/'
     PATTERN = '.*[.]csv';
 
 -- Step 4: Create tables and load data
