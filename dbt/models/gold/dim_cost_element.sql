@@ -1,6 +1,0 @@
-SELECT
-    CHART_OF_ACCOUNTS,
-    COST_ELEMENT,
-    COST_ELEMENT_NAME,
-    COST_ELEMENT_DESCRIPTION
-FROM {{ ref('cost_elements') }}
