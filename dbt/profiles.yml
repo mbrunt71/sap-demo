@@ -6,5 +6,5 @@ sap_demo:
       role: ACCOUNTADMIN
       database: DWH
       warehouse: COMPUTE_WH
-      schema: SILVER
+      schema: bronze
       threads: 8

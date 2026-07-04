@@ -1,7 +1,6 @@
 {{ config(
     materialized='incremental',
-    incremental_strategy='merge',
-    unique_key='business_key',
+    incremental_strategy='append',
     on_schema_change='append_new_columns',
     alias='HTECC_VBAK',
     database='DWH',
@@ -13,46 +12,33 @@ with source as (
     select
         mandt,
         vbeln,
-        erdat,
-        erzet,
-        netwr,
-        waerk,
+        auart,
         vkorg,
         vtweg,
         spart,
         kunnr,
-        audat,
-        auart,
-        vkbur,
-        vkgrp,
+        erdat,
+        netwr,
+        waerk,
         md5(concat_ws('|', coalesce(mandt, ''), coalesce(vbeln, ''))) as business_key,
         current_timestamp() as load_ts
     from {{ source('sap_ecc', 'VBAK') }}
-),
-
-scd2 as (
-    select
-        business_key,
-        mandt,
-        vbeln,
-        erdat,
-        erzet,
-        netwr,
-        waerk,
-        vkorg,
-        vtweg,
-        spart,
-        kunnr,
-        audat,
-        auart,
-        vkbur,
-        vkgrp,
-        load_ts,
-        current_timestamp() as valid_from,
-        cast(null as timestamp) as valid_to,
-        true as is_current
-    from source
 )
 
-select *
-from scd2
+select
+    business_key,
+    mandt,
+    vbeln,
+    auart,
+    vkorg,
+    vtweg,
+    spart,
+    kunnr,
+    erdat,
+    netwr,
+    waerk,
+    load_ts,
+    current_timestamp() as valid_from,
+    cast('9999-12-31 23:59:59' as timestamp) as valid_to,
+    true as is_current
+from source
