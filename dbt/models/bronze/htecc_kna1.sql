@@ -4,6 +4,8 @@
     unique_key='business_key',
     on_schema_change='append_new_columns',
     alias='HTECC_KNA1',
+    database='DWH',
+    schema='BRONZE',
     tags=['sap', 'bronze', 'scd2']
 ) }}
 

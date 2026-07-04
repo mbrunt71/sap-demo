@@ -1,10 +1,10 @@
-mbr_snowflake_dbt_ai:
+sap-demo:
   target: dev
   outputs:
     dev:
       type: snowflake
       role: ACCOUNTADMIN
-      database: DEMO
+      database: DWH
       warehouse: COMPUTE_WH
       schema: SILVER
       threads: 8

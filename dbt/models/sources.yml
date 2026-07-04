@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: sap_ecc
+    database: SAP
+    schema: SAP_ECC
+    tables:
+      - name: MARA
+      - name: KNA1
+      - name: VBAK

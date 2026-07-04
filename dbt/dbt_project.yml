@@ -12,13 +12,13 @@ models:
   mbr_snowflake_dbt_ai:
     bronze:
       +materialized: table
-      +database: DEMO
+      +database: DWH
       +schema: BRONZE
     silver:
       +materialized: table
-      +database: DEMO
+      +database: DWH
       +schema: SILVER
     gold:
       +materialized: view
-      +database: DEMO
+      +database: DWH
       +schema: GOLD_DIMENSIONAL

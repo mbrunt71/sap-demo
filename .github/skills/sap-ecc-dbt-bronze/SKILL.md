@@ -8,8 +8,9 @@ description: Genereer dbt bronzemodellen voor SAP ECC-tabellen met bron-source-d
 ## Doel
 Maak voor elke SAP-tabel uit de brondatabase SAP.SAP_ECC een dbt-bronze model dat:
 - de bron definieert als source met naam sap_ecc
+- de bron gebruikt vanuit database SAP en schema SAP_ECC
 - een incremental model genereert in de bronze laag
-- een SCD2-achtige historie bouwt naar een doeltafel met prefix HTECC_<table>
+- een SCD2-achtige historie bouwt naar een doeltafel in DWH.BRONZE met prefix HTECC_<table>
 
 ## Gebruik
 Gebruik deze skill wanneer je een nieuwe set SAP ECC-tabellen wilt laten opnemen in dbt en wilt dat deze als bron zet in de bronze laag.
@@ -31,6 +32,8 @@ Gebruik deze skill wanneer je een nieuwe set SAP ECC-tabellen wilt laten opnemen
    - unique_key: <business_key>
    - on_schema_change: append_new_columns
    - tags: [sap, bronze, scd2]
+   - target database: DWH
+   - target schema: BRONZE
 
 4. Bouw het model als SCD2 met deze kolommen:
    - <business_key>
@@ -87,5 +90,5 @@ Als de bron wordt bijgewerkt, moet een bestaande rij worden gesloten en moet een
 Voor elke tabel moet je genereren:
 - een bronentry in dbt/models/sources.yml
 - een dbt-modelbestand in dbt/models/bronze/
-- een doeltafel met naam HTECC_<TABLE>
+- een doeltafel in DWH.BRONZE met naam HTECC_<TABLE>
 - een incremental SCD2-structuur met actieve en historische versies
