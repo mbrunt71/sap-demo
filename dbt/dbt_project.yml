@@ -1,15 +1,15 @@
-name: 'sap-demo'
+name: 'sap_demo'
 version: '1.0.0'
 config-version: 2
 
-profile: 'sap-demo'
+profile: 'sap_demo'
 
 model-paths: ["models"]
 test-paths: ["tests"]
 seed-paths: ["seeds"]
 
 models:
-  sap-demo:
+  sap_demo:
     bronze:
       +materialized: table
       +database: DWH
