@@ -41,10 +41,13 @@ De output moet worden opgeslagen in deze bestanden:
 - sap/dd/DD07L.csv
 
 ## Aanbevolen aanpak
-- Gebruik Python met requests en BeautifulSoup of Selenium wanneer de pagina dynamisch is.
-- Maak de CSV’s append-only of overwrite per run.
+- Gebruik Python met requests en BeautifulSoup.
+- Open eerst de zoekpagina van LeanX en maak vervolgens gebruik van de detailpagina voor een tabel, bijvoorbeeld https://leanx.eu/sap/table/mseg/.
+- Parse de HTML-tabel met de veldlijst die LeanX op de detailpagina aanbiedt, niet alleen de zoekresultatenpagina.
+- Extraheer voor elke veldregel de veldnaam, datatype, lengte, decimalen en data element/checktable indien beschikbaar.
 - Schrijf duidelijke kolomnamen die aansluiten op de DDIC-structuur.
 - Gebruik UTF-8 encoding en generieke fallback-waarden wanneer een veld onbekend is.
+- Als de detailpagina geen veldtabel bevat, val dan terug op een minimale fallback-rij zoals MANDT, maar beschouw dit als uitzondering.
 
 ## Referentiemodel
 Het script moet minimaal deze kolommen bevatten:
@@ -64,6 +67,165 @@ Genereer een Python-script met de naam:
 
 Het script moet:
 - een lijst met SAP-tabellen kunnen laden uit een invoerbestand of een hardcoded lijst
-- per tabel de metadata ophalen en in CSV schrijven
+- per tabel eerst de zoekpagina openen en vervolgens de detailpagina voor die tabel
+- de veldtabel van LeanX parsen en meerdere DD03L/DD03T-rijen genereren
+- de metadata in CSV schrijven
 - indien de pagina niet toegankelijk is, netjes falen met een duidelijke foutmelding
 - een `--tables` argument ondersteunen voor een specifieke subset
+- de parser zo bouwen dat het werkt voor tabellen zoals MSEG, waarbij LeanX een lange lijst met echte velden exposeert
+
+## Lijst met SAP-tabellen
+AFKO
+AFPO
+AFVC
+AFVV
+AGR_TEXTS
+AGR_USERS
+ANEP
+ANLA
+AUFK
+BALDAT
+BALHDR
+BDCP2
+BKPF
+BSAD
+BSAK
+BSAS
+BSEG
+BSID
+BSIK
+CDHDR
+CDPOS
+CE1XXXX
+CE2XXXX
+COBK
+COEP
+COSP
+COSS
+CRHD
+CRTX
+CSKA
+CSKB
+CSKS
+CSKT
+CSKU
+DD02L
+DD03L
+EBAN
+EDID4
+EDIDC
+EINA
+EINE
+EKBE
+EKET
+EKKO
+EKPO
+FAGLFLEXA
+HRP1000
+HRP1001
+HRP1002
+INFO
+JEST
+KEKO
+KEPH
+KNA1
+KNVV
+KONV
+LAGP
+LEIN
+LFA1
+LFB1
+LFM1
+LIKP
+LIPS
+LQUA
+LTAK
+LTAP
+LTBK
+LTBP
+MAKT
+MAPL
+MARA
+MARC
+MARD
+MAST
+MDKP
+MDTB
+MKPF
+MLCD
+MSEG
+OBJK
+PA0000
+PA0001
+PA0002
+PA0006
+PA0007
+PA0008
+PA0014
+PA0015
+PA2001
+PA2002
+PA2006
+PBED
+PBIM
+PLAF
+PLKO
+PLPO
+QMEL
+RBKP
+RESB
+RLGRAP
+RSEG
+SER01
+STKO
+STPO
+T000
+T000T
+T001L
+T001W
+T156
+T156T
+T161
+T161T
+T300
+T300T
+T527X
+T529T
+T552T
+T554T
+T556T
+T685
+T685T
+TBDLS
+TCURC
+TCURT
+TCURX
+TJ02
+TJ02T
+TKA01
+TKT01
+TTDS
+TTDST
+TVAK
+TVAKT
+TVAP
+TVAPT
+TVLK
+TVLKT
+USR02
+VBAK
+VBAP
+VBEP
+VBFA
+VBKD
+VBPA
+VBRK
+VBRP
+VBUK
+VBUP
+VFKN
+VFKP
+VTFA
+VTTK
+VTTP
+VTTS

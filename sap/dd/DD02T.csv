@@ -1,161 +1,149 @@
 TABNAME,AS4LOCAL,AS4VERS,DDLANGUAGE,DDTEXT
-AFKO,A,0000,E,Order header data PP orders
-AFPO,A,0000,E,Order item data PP orders
-AFVC,A,0000,E,Order operation data
-AFVV,A,0000,E,Order operation quantities and dates
-AGR_TEXTS,A,0000,E,Role texts
-AGR_USERS,A,0000,E,Assignment of roles to users
-ANEP,A,0000,E,Asset line items
-ANLA,A,0000,E,Asset master record segment
-AUFK,A,0000,E,Order master data
-BALDAT,A,0000,E,Application log data
-BALHDR,A,0000,E,Application log header data
-BDCP2,A,0000,E,Change pointer
-BKPF,A,0000,E,Accounting document header
-BSAD,A,0000,E,Accounting secondary index for customers (cleared items)
-BSAK,A,0000,E,Accounting secondary index for vendors (cleared items)
-BSAS,A,0000,E,Accounting secondary index for G/L accounts (cleared items)
-BSEG,A,0000,E,Accounting document segment
-BSID,A,0000,E,Accounting secondary index for customers (open items)
-BSIK,A,0000,E,Accounting secondary index for vendors (open items)
-CDHDR,A,0000,E,Change document header
-CDPOS,A,0000,E,Change document items
-CE1XXXX,A,0000,E,Profitability analysis actual line items
-CE2XXXX,A,0000,E,Profitability analysis plan line items
-COBK,A,0000,E,CO object: document header
-COEP,A,0000,E,CO object: line items (by period)
-COSP,A,0000,E,CO object: cost totals for external postings
-COSS,A,0000,E,CO object: cost totals for internal postings
-CRHD,A,0000,E,Work center header
-CRTX,A,0000,E,Work center text
-CSKA,A,0000,E,Cost elements (data dependent on chart of accounts)
-CSKB,A,0000,E,Cost elements (data dependent on controlling area)
-CSKS,A,0000,E,Cost center master data
-CSKT,A,0000,E,Cost center texts
-CSKU,A,0000,E,Cost element texts
-DD01L,A,0000,E,Domains
-DD02L,A,0000,E,SAP tables
-DD02T,A,0000,E,SAP table texts
-DD03L,A,0000,E,Table fields
-DD03T,A,0000,E,Table field texts
-DD04L,A,0000,E,Data elements
-DD04T,A,0000,E,Data element texts
-DD07L,A,0000,E,Values for the domains (value ranges)
-EBAN,A,0000,E,Purchase requisition
-EDID4,A,0000,E,IDoc data records
-EDIDC,A,0000,E,IDoc control record
-EINA,A,0000,E,Purchasing info record - general data
-EINE,A,0000,E,Purchasing info record - purchasing organization data
-EKBE,A,0000,E,History per purchasing document
-EKET,A,0000,E,Scheduling agreement schedule lines
-EKKO,A,0000,E,Purchasing document header
-EKPO,A,0000,E,Purchasing document item
-FAGLFLEXA,A,0000,E,Flexible general ledger: actual line items
-HRP1000,A,0000,E,HR object infotype 1000
-HRP1001,A,0000,E,HR object infotype 1001 (relationships)
-HRP1002,A,0000,E,HR object infotype 1002 (description)
-INFO,A,0000,E,Purchasing info record
-JEST,A,0000,E,Individual object status
-KEKO,A,0000,E,Product costing - header data
-KEPH,A,0000,E,Product costing - cost components for cost estimates
-KNA1,A,0000,E,General data in customer master
-KNVV,A,0000,E,Customer master sales data
-KONV,A,0000,E,Conditions (transaction data)
-LAGP,A,0000,E,Storage bins
-LEIN,A,0000,E,Storage unit header records
-LFA1,A,0000,E,Vendor master (general section)
-LFB1,A,0000,E,Vendor master (company code)
-LFM1,A,0000,E,Vendor master (purchasing organization)
-LIKP,A,0000,E,SD document: delivery header data
-LIPS,A,0000,E,SD document: delivery item data
-LQUA,A,0000,E,Quants
-LTAK,A,0000,E,WM transfer order header
-LTAP,A,0000,E,WM transfer order item
-LTBK,A,0000,E,WM transfer requirement header
-LTBP,A,0000,E,WM transfer requirement item
-MAKT,A,0000,E,Material descriptions
-MAPL,A,0000,E,Assignment of task lists to materials
-MARA,A,0000,E,General material data
-MARC,A,0000,E,Plant data for material
-MARD,A,0000,E,Storage location data for material
-MAST,A,0000,E,Material to BOM link
-MDKP,A,0000,E,MRP document header data
-MDTB,A,0000,E,MRP table structure
-MKPF,A,0000,E,Header material document
-MLCD,A,0000,E,Material ledger: summarization record currency and valuation
-MSEG,A,0000,E,Document segment: material
-OBJK,A,0000,E,Plant maintenance object list entry
-PA0000,A,0000,E,HR master record: infotype 0000 (actions)
-PA0001,A,0000,E,HR master record: infotype 0001 (org. assignment)
-PA0002,A,0000,E,HR master record: infotype 0002 (personal data)
-PA0006,A,0000,E,HR master record: infotype 0006 (addresses)
-PA0007,A,0000,E,HR master record: infotype 0007 (planned working time)
-PA0008,A,0000,E,HR master record: infotype 0008 (basic pay)
-PA0014,A,0000,E,HR master record: infotype 0014 (recurring payments/deductions)
-PA0015,A,0000,E,HR master record: infotype 0015 (additional payments)
-PA2001,A,0000,E,HR time record: infotype 2001 (absences)
-PA2002,A,0000,E,HR time record: infotype 2002 (attendances)
-PA2006,A,0000,E,HR time record: infotype 2006 (absence quotas)
-PBED,A,0000,E,Independent requirements data
-PBIM,A,0000,E,Independent requirements by material
-PLAF,A,0000,E,Planned order
-PLKO,A,0000,E,Task list header
-PLPO,A,0000,E,Task list operation/activity
-QMEL,A,0000,E,Quality notification
-RBKP,A,0000,E,Document header: invoice receipt
-RESB,A,0000,E,Reservation/dependent requirements
-RLGRAP,A,0000,E,WM: inventory records per storage bin
-RSEG,A,0000,E,Document item: incoming invoice
-SER01,A,0000,E,Document header for serial numbers (delivery)
-STKO,A,0000,E,BOM header
-STPO,A,0000,E,BOM item
-T000,A,0000,E,Clients
-T000T,A,0000,E,Client texts
-T001L,A,0000,E,Storage locations
-T001W,A,0000,E,Plants/branches
-T156,A,0000,E,Movement type
-T156T,A,0000,E,Movement type text
-T161,A,0000,E,Purchasing document types
-T161T,A,0000,E,Purchasing document type texts
-T300,A,0000,E,WM warehouse numbers
-T300T,A,0000,E,WM warehouse number texts
-T527X,A,0000,E,Organizational units texts
-T529T,A,0000,E,Employee group texts
-T552T,A,0000,E,Work schedule texts
-T554T,A,0000,E,Absence type texts
-T556T,A,0000,E,Attendance/absence type texts
-T685,A,0000,E,Condition types
-T685T,A,0000,E,Condition type texts
-TBDLS,A,0000,E,Logical systems
-TCURC,A,0000,E,Currency codes
-TCURT,A,0000,E,Currency code names
-TCURX,A,0000,E,Decimal places in currencies
-TJ02,A,0000,E,System status
-TJ02T,A,0000,E,System status texts
-TKA01,A,0000,E,Controlling areas
-TKT01,A,0000,E,Controlling area texts
-TTDS,A,0000,E,Shipment types
-TTDST,A,0000,E,Shipment type texts
-TVAK,A,0000,E,Sales document types
-TVAKT,A,0000,E,Sales document type texts
-TVAP,A,0000,E,Sales document item categories
-TVAPT,A,0000,E,Sales document item category texts
-TVLK,A,0000,E,Delivery types
-TVLKT,A,0000,E,Delivery type texts
-USR02,A,0000,E,Logon data (kernel-side use)
-VBAK,A,0000,E,Sales document: header data
-VBAP,A,0000,E,Sales document: item data
-VBEP,A,0000,E,Sales document: schedule line data
-VBFA,A,0000,E,Sales document flow
-VBKD,A,0000,E,Sales document: business data
-VBPA,A,0000,E,Sales document: partner
-VBRK,A,0000,E,Billing document: header data
-VBRP,A,0000,E,Billing document: item data
-VBUK,A,0000,E,Sales document: header status and administrative data
-VBUP,A,0000,E,Sales document: item status
-VFKN,A,0000,E,Shipment costs: item
-VFKP,A,0000,E,Shipment costs: header
-VTFA,A,0000,E,Shipment document flow
-VTTK,A,0000,E,Shipment header
-VTTP,A,0000,E,Shipment item
-VTTS,A,0000,E,Shipment stage
+AFKO,A,0000,D,AFKO - Order Header Data PP Orders Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+AFPO,A,0000,D,AFPO - Order item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Sear
+AFVC,A,0000,D,AFVC - Operation within an order Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+AFVV,A,0000,D,AFVV - DB structure of the quantities/dates/values in the operation Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on Linked
+AGR_TEXTS,A,0000,D,AGR_TEXTS - File Structure for Hierarchical Menu - Customer Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for y
+AGR_USERS,A,0000,D,AGR_USERS - Assignment of roles to users Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP projec
+ANEP,A,0000,D,ANEP - Asset Line Items Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Searc
+ANLA,A,0000,D,ANLA - Asset Master Record Segment Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+AUFK,A,0000,D,AUFK - Order master data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sear
+BALDAT,A,0000,D,BALDAT - Application Log: Log data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+BALHDR,A,0000,D,BALHDR - Application log: log header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+BDCP2,A,0000,D,"BDCP2 - Aggregated Change Pointers (BDCP, BDCPS) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SA"
+BKPF,A,0000,D,BKPF - Accounting Document Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Bac
+BSAD,A,0000,D,BSAD - Accounting: Secondary Index for Customers (Cleared Items) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn 
+BSAK,A,0000,D,BSAK - Accounting: Secondary Index for Vendors (Cleared Items) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn fo
+BSAS,A,0000,D,BSAS - Accounting: Secondary Index for G/L Accounts (Cleared Items) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on Linked
+BSEG,A,0000,D,BSEG - Accounting Document Segment Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+BSID,A,0000,D,BSID - Accounting: Secondary Index for Customers Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SA
+BSIK,A,0000,D,BSIK - Accounting: Secondary Index for Vendors Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP 
+CDHDR,A,0000,D,CDHDR - Change document header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+CDPOS,A,0000,D,CDPOS - Change document items Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to
+COBK,A,0000,D,COBK - CO Object: Document Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Bac
+COEP,A,0000,D,COEP - CO Object: Line Items (by Period) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP projec
+COSP,A,0000,D,COSP - CO Object: Cost Totals for External Postings Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next
+COSS,A,0000,D,COSS - CO Object: Cost Totals for Internal Postings Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next
+CRHD,A,0000,D,CRHD - Work Center Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sea
+CRTX,A,0000,D,CRTX - Text for the Work Center or Production Resource/Tool Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for y
+CSKA,A,0000,D,CSKA - Cost Elements (Data Dependent on Chart of Accounts) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for yo
+CSKB,A,0000,D,CSKB - Cost Elements (Data Dependent on Controlling Area) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for you
+CSKS,A,0000,D,CSKS - Cost Center Master Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+CSKT,A,0000,D,CSKT - Cost Center Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sear
+CSKU,A,0000,D,CSKU - Cost Element Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sea
+DD02L,A,0000,D,DD02L - SAP Tables Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Sea
+DD03L,A,0000,D,DD03L - Table Fields Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search S
+EBAN,A,0000,D,EBAN - Purchase Requisition Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+EDID4,A,0000,D,EDID4 - IDoc Data Records from 4.0 onwards Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP proj
+EDIDC,A,0000,D,EDIDC - Control record (IDoc) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to
+EINA,A,0000,D,EINA - Purchasing Info Record: General Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP pro
+EINE,A,0000,D,EINE - Purchasing Info Record: Purchasing Organization Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for y
+EKBE,A,0000,D,EKBE - History per Purchasing Document Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project 
+EKET,A,0000,D,EKET - Scheduling Agreement Schedule Lines Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP proj
+EKKO,A,0000,D,EKKO - Purchasing Document Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Bac
+EKPO,A,0000,D,EKPO - Purchasing Document Item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back 
+FAGLFLEXA,A,0000,D,FAGLFLEXA - General Ledger: Actual Line Items Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP p
+HRP1000,A,0000,D,HRP1000 - Infotype 1000 DB Table Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+HRP1001,A,0000,D,HRP1001 - Infotype 1001 DB Table Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+HRP1002,A,0000,D,HRP1002 - Infotype 1002 DB Table Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+JEST,A,0000,D,JEST - Individual Object Status Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back 
+KEKO,A,0000,D,KEKO - Product Costing - Header Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+KEPH,A,0000,D,KEPH - Product Costing: Cost Components for Cost of Goods Mfd Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for
+KNA1,A,0000,D,KNA1 - General Data in Customer Master Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project 
+KNVV,A,0000,D,KNVV - Customer Master Sales Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Bac
+KONV,A,0000,D,KONV - Conditions (Transaction Data) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+LAGP,A,0000,D,LAGP - Storage bins Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Se
+LEIN,A,0000,D,LEIN - Storage unit header records Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+LFA1,A,0000,D,LFA1 - Vendor Master (General Section) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project 
+LFB1,A,0000,D,LFB1 - Vendor Master (Company Code) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← B
+LFM1,A,0000,D,LFM1 - Vendor master record purchasing organization data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your
+LIKP,A,0000,D,LIKP - SD Document: Delivery Header Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP projec
+LIPS,A,0000,D,LIPS - SD document: Delivery: Item data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project
+LQUA,A,0000,D,LQUA - Quants Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Search S
+LTAK,A,0000,D,LTAK - WM transfer order header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back 
+LTAP,A,0000,D,LTAP - Transfer order item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Se
+LTBK,A,0000,D,LTBK - Transfer requirement header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+LTBP,A,0000,D,LTBP - Transfer requirement item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+MAKT,A,0000,D,MAKT - Material Descriptions Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to 
+MAPL,A,0000,D,MAPL - Assignment of Task Lists to Materials Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP pr
+MARA,A,0000,D,MARA - General Material Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to 
+MARC,A,0000,D,MARC - Plant Data for Material Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+MARD,A,0000,D,MARD - Storage Location Data for Material Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP proje
+MAST,A,0000,D,MAST - Material to BOM Link Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+MDKP,A,0000,D,MDKP - Header Data for MRP Document Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← B
+MDTB,A,0000,D,MDTB - MRP Table Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Searc
+MKPF,A,0000,D,MKPF - Header: Material Document Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+MLCD,A,0000,D,MLCD - Material Ledger: Summarization Record (from Documents) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for
+MSEG,A,0000,D,MSEG - Document Segment: Material Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Bac
+OBJK,A,0000,D,OBJK - Plant Maintenance Object List Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+PA0000,A,0000,D,PA0000 - HR Master Record: Infotype 0000 (Actions) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next 
+PA0001,A,0000,D,PA0001 - HR Master Record: Infotype 0001 (Org. Assignment) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for yo
+PA0002,A,0000,D,PA0002 - HR Master Record: Infotype 0002 (Personal Data) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your
+PA0006,A,0000,D,PA0006 - HR Master Record: Infotype 0006 (Addresses) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your nex
+PA0007,A,0000,D,PA0007 - HR Master Record: Infotype 0007 (Planned Working Time) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn f
+PA0008,A,0000,D,PA0008 - HR Master Record: Infotype 0008 (Basic Pay) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your nex
+PA0014,A,0000,D,PA0014 - HR Master Record: Infotype 0014 (Recur. Payments/Deds.) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn 
+PA0015,A,0000,D,PA0015 - HR Master Record: Infotype 0015 (Additional Payments) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn fo
+PA2001,A,0000,D,PA2001 - HR Time Record: Infotype 2001 (Absences) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next S
+PA2002,A,0000,D,PA2002 - HR Time Record: Infotype 2002 (Attendances) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your nex
+PA2006,A,0000,D,PA2006 - HR Time Record: Infotype 2006 (Absence Quotas) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your 
+PBED,A,0000,D,PBED - Independent Requirements Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+PBIM,A,0000,D,PBIM - Independent Requirements for Material Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP pr
+PLAF,A,0000,D,PLAF - Planned Order Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search S
+PLKO,A,0000,D,PLKO - Task list - header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sea
+PLPO,A,0000,D,PLPO - Task list - operation/activity Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ←
+QMEL,A,0000,D,QMEL - Quality Notification Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+RBKP,A,0000,D,RBKP - Document Header: Invoice Receipt Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project
+RESB,A,0000,D,RESB - Reservation/dependent requirements Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP proje
+RLGRAP,A,0000,D,RLGRAP - Program Fields/Screen Fields for SAPLGRAP Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next 
+RSEG,A,0000,D,RSEG - Document Item: Incoming Invoice Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project 
+SER01,A,0000,D,SER01 - Document Header for Serial Numbers for Delivery Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your 
+STKO,A,0000,D,STKO - BOM Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Sear
+STPO,A,0000,D,STPO - BOM item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Search
+T000,A,0000,D,T000 - Clients Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search Search 
+T001L,A,0000,D,T001L - Storage Locations Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sea
+T001W,A,0000,D,T001W - Plants/Branches Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Searc
+T156,A,0000,D,T156 - Movement Type Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search S
+T156T,A,0000,D,T156T - Movement Type Text Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Se
+T161,A,0000,D,T161 - Purchasing Document Types Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+T161T,A,0000,D,T161T - Texts for Purchasing Document Types Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP pro
+T300,A,0000,D,T300 - WM Warehouse Numbers Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+T300T,A,0000,D,T300T - Warehouse Number Descriptions Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ←
+T527X,A,0000,D,T527X - Organizational Units Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to 
+T529T,A,0000,D,T529T - Personnel Action Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+T554T,A,0000,D,T554T - Absence and Attendance Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+T556T,A,0000,D,T556T - Substitution Type Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back 
+T685,A,0000,D,T685 - Conditions: Types Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sear
+T685T,A,0000,D,T685T - Conditions: Types: Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+TBDLS,A,0000,D,TBDLS - Logical system Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search
+TCURC,A,0000,D,TCURC - Currency Codes Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search
+TCURT,A,0000,D,TCURT - Currency Code Names Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+TCURX,A,0000,D,TCURX - Decimal Places in Currencies Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+TJ02,A,0000,D,TJ02 - System status Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search S
+TJ02T,A,0000,D,TJ02T - System status texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+TKA01,A,0000,D,TKA01 - Controlling Areas Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sea
+TTDS,A,0000,D,TTDS - Organizational Unit: Transportation Scheduling Point Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for y
+TTDST,A,0000,D,TTDST - Organizational Unit: Transportation Scheduling Point: Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on Linked
+TVAK,A,0000,D,TVAK - Sales Document Types Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to S
+TVAKT,A,0000,D,TVAKT - Sales Document Types: Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← B
+TVAP,A,0000,D,TVAP - Sales Document: Item Categories Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project 
+TVAPT,A,0000,D,TVAPT - Sales document item categories: Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP p
+TVLK,A,0000,D,TVLK - Delivery Types Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search 
+TVLKT,A,0000,D,TVLKT - Delivery: Types: Texts Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+USR02,A,0000,D,USR02 - Logon Data (Kernel-Side Use) Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+VBAK,A,0000,D,VBAK - Sales Document: Header Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+VBAP,A,0000,D,VBAP - Sales Document: Item Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+VBEP,A,0000,D,VBEP - Sales Document: Schedule Line Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP proje
+VBFA,A,0000,D,VBFA - Sales Document Flow Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Se
+VBKD,A,0000,D,VBKD - Sales Document: Business Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+VBPA,A,0000,D,VBPA - Sales Document: Partner Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back t
+VBRK,A,0000,D,VBRK - Billing Document: Header Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← 
+VBRP,A,0000,D,VBRP - Billing Document: Item Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+VBUK,A,0000,D,VBUK - Sales Document: Header Status and Administrative Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for 
+VBUP,A,0000,D,VBUP - Sales Document: Item Status Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Ba
+VFKN,A,0000,D,VFKN - Account Determination in Shipment Costs Item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next
+VFKP,A,0000,D,VFKP - Shipment Costs: Item Data Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back
+VTFA,A,0000,D,VTFA - Shipment Document Flow Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to
+VTTK,A,0000,D,VTTK - Shipment Header Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search
+VTTP,A,0000,D,VTTP - Shipment Item Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Search S
+VTTS,A,0000,D,VTTS - Stage of Shipment Skip to content Home Services Ventures Resources Expand Search ECC Tables Search HANA Tables Contact Toggle Menu Follow us on LinkedIn for your next SAP project ← Back to Sear
