@@ -14,10 +14,12 @@ Maak voor elke SAP-tabel uit de bronze laag een business-model in de silver laag
 - Het MANDT (client) veld uitsluit omdat dit geen business-waarde heeft
 
 ## Gebruik
-Gebruik deze skill wanneer je een nieuwe SAP ECC-tabel wilt transformeren naar een business-model in de silver laag. De skill vertaalt technische SAP-namen naar begrijpelijke business-namen en voegt beschrijvende teksten toe.
+Gebruik deze skill wanneer je een nieuwe SAP bronze-tabel wilt transformeren naar een business-model in de silver laag. De skill vertaalt technische SAP-namen naar begrijpelijke business-namen en voegt beschrijvende teksten toe.
 
 ## Bronnen voor naamgeving en beschrijvingen
 
+Alle Bronze tabellen in DWH.BRONZE zijn de basis voor de business laag. 
+De data dictionary tabellen in SAP.SAP_ECC bieden business omschrijvingen
 ### Tabelnamen (DD02T)
 Bestand: `sap/dd/DD02T.csv`
 Formaat: TABNAME, AS4LOCAL, AS4VERS, DDLANGUAGE, DDTEXT
